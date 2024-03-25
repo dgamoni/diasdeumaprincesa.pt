@@ -70,4 +70,4 @@ if ( "default" == $infinity_title_style ) {
     </div>
     <!-- .entry-content -->
   </article><!-- #post-## -->
-<?php if ( ( comments_open() || get_comments_number() ) ) : comments_template(); endif; ?>
+<?php //if ( ( comments_open() || get_comments_number() ) ) : comments_template(); endif; ?>

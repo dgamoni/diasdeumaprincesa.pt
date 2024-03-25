@@ -101,7 +101,7 @@ function add_custom_css() { ?>
 		jQuery(document).ready(function($) {
 			
 
-			$("#wpp-2 ul > li").addClass(function(i){return " customitem item" + (i + 1);});
+			$("#wpp-3 ul > li").addClass(function(i){return " customitem item" + (i + 1);});
 			
 		});
 	</script>

@@ -288,11 +288,14 @@ article {
 	background-color: white;*/
 
 }
+
 .princesa .sidebar .widget {
     /*margin-bottom: 0px !important;*/
     padding: 20px;
     background-color: white;
 }
+
+
 .princesa .widget.widget_media_image {
 	padding: 0px;
 }
@@ -311,7 +314,11 @@ article {
 .textwidget .col-md-12 {
     overflow: hidden;
 }
-#text-4 {
+/*#text-4 {
+    text-align: center;
+    background-color: transparent;
+}*/
+#text-34 {
     text-align: center;
     background-color: transparent;
 }
@@ -326,8 +333,11 @@ article {
 .mc4wp-form input[type="text"], .mc4wp-form input[type="email"] {
     background-color: #f3f3f3;
 }
-#text-5 {
+/*#text-5 {
 	text-align: center;
+}*/
+#text-31 {
+    text-align: center;
 }
 
 .princesa a.wpp-post-title {
@@ -338,9 +348,13 @@ article {
     line-height: 1.2;
 }
 .wpp-list li {
-
+    min-height: 40px;
 }
-.princesa .sidebar #text-6.widget {
+/*.princesa .sidebar #text-6.widget {
+   padding: 0px;
+
+}*/
+.princesa .sidebar #text-29.widget {
    padding: 0px;
 
 }
@@ -649,6 +663,9 @@ padding-left: 60px;
     width: 100%;
 }
 
+.page-template-default .page {
+        margin-bottom: 50px;
+}
 @media only screen and (min-width: 992px) {
 	.site-branding {
 	    /*padding: 60px 0 30px 0;*/
@@ -746,4 +763,18 @@ padding-left: 60px;
 @media (max-width: 768px) { 
 
 
+}
+
+/* - - - */
+
+.sidebar {
+    width: 300px;
+}
+
+#custom_html-8 {
+    padding: 0;
+}
+
+.princesa .sidebar #custom_html-11.widget {
+  padding: 0px;  
 }

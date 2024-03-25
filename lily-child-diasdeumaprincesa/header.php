@@ -18,6 +18,15 @@
   <link rel="apple-touch-icon" href="<?php echo get_theme_mod( 'apple_touch_icon', apple_touch_icon ); ?>?v=2" />
   <?php wp_head(); ?>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55063109-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-55063109-1');
+</script>
 
 
 </head>
@@ -58,16 +67,12 @@
                     </nav>
                     <!-- #site-navigation -->
                   </div><!-- #navbar -->
-  
               </div>
-
             </div>
           </div>
         </div>
       </div>
     </header>
-
-
-
   </div>
+
   <!-- .header-wrapper -->

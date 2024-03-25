@@ -83,12 +83,21 @@ $infinity_post_grid_align = Kirki::get_option( 'infinity', 'post_grid_align' );
 
   <?php } elseif ( has_post_format( 'video' ) ) { ?>
     <div class="post-video">
-      <?php $video = get_post_meta( get_the_ID(), '_format_video_embed', true ); ?>
-      <?php if ( wp_oembed_get( $video ) ) { ?>
+      <?php $video = get_post_meta( get_the_ID(), '_format_video_embed', true ); 
+      //var_dump($video);
+      $content = apply_filters( 'the_content', $post->post_content );
+      $embeds = get_media_embedded_in_content( $content );
+      //var_dump($embeds);
+      ?>
+<!--       <?php if ( wp_oembed_get( $video ) ) { ?>
         <?php echo wp_oembed_get( $video ); ?>
       <?php } else { ?>
         <?php echo $video; ?>
+      <?php } ?> -->
+      <?php if (  $embeds ) { ?>
+        <?php echo  $embeds[0]; ?>
       <?php } ?>
+
     </div>
 
   <?php } elseif ( has_post_format( 'audio' ) ) { ?>
@@ -190,15 +199,15 @@ $infinity_post_grid_align = Kirki::get_option( 'infinity', 'post_grid_align' );
                onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=no,scrollbars=no,height=455,width=600'); return false;">
               <!-- <i class="fa fa-google-plus"></i> -->Google
             </a>
-            <!-- <span class="prince-slash"> / </span> -->
-            <!-- <a href="mailto:<?php echo get_option( 'admin_email' ); ?>"> -->
-              <!-- Email -->
-            <!-- </a> -->
           </div>
 
 
           <div class="col-xs-3 princ-commen-count">
-            <p><?php comments_number( 'Sem Comentários', 'One Comentário', '% Comentários' ); ?></p>
+            <p>
+              <a href="<?php echo get_comments_link(); ?>">
+                <?php comments_number( 'Sem Comentários', 'One Comentário', '% Comentários' ); ?>
+              </a>
+            </p>
           </div>
 
       </div>
