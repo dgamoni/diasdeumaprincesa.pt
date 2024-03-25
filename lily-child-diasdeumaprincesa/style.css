@@ -1,0 +1,205 @@
+/*
+Theme Name: Lily Child - diasdeumaprincesa.pt 2018
+Theme URI: http://lily.thememove.com
+Template: lily
+Author: ThemeMove
+Author URI: http://thememove.com
+Description: Personal Blog Theme
+Tags: black,dark,light,two-columns,left-sidebar,fixed-layout,responsive-layout,accessibility-ready,custom-background,custom-colors,custom-header,custom-menu,editor-style,featured-images,microformats,post-formats,rtl-language-support,sticky-post,threaded-comments,translation-ready
+Version: 1.2.1.1512498923
+Updated: 2017-12-05 18:35:23
+
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Amiri:400,400i,700,700i');
+/* font-family: 'Amiri', serif; */
+
+@import url('https://fonts.googleapis.com/css?family=Mukta+Mahee:200,300,400,500,600,700,800');
+/* font-family: 'Mukta Mahee', sans-serif; */
+
+/*html {
+    margin-top: 0 !important;
+}
+
+#wpadminbar {
+    margin-top: 0 !important;
+}*/
+
+body.princesa {
+	font-family: 'Amiri', serif;
+	background: #f3f3f3;
+}
+.princesa h1, .princesa h2, .princesa h3, .princesa h4, .princesa h5, .princesa h6, 
+.princesa blockquote, .princesa .author-info__name,
+.princesa .comment-content cite.fn {
+    font-family: 'Amiri', serif;
+}
+.princesa .header {
+	background-color: #f3f3f3;
+	    border-bottom-color: #acacaf;
+}
+.site-branding img {
+    max-width: 460px;
+}
+.main-navigation {
+    display: flex;
+    justify-content: center;
+}
+
+.main-navigation ul {
+    display: inherit;
+}
+
+.main-navigation a {
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: inherit;
+    color: #7d7d7d !important;
+}
+
+
+.post .entry-content p, .post .entry-summary p {
+    font-size: 18px;
+    line-height: 2;
+    font-family: 'Mukta Mahee', sans-serif;
+    color: black;
+    text-align: left;
+}
+.princesa .content-wrapper {
+    background-color: #f3f3f3;
+}
+
+article {
+	background-color: white;
+}
+.post .entry-header.above {
+    background-color: #f3f3f3;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+
+.post .entry-title {
+    font-weight: bold;
+    font-size: 34px;
+    margin-top: 10px;
+}
+
+.princesa .princess_post-categories a {
+	font-size: 20px;
+    font-weight: bold;
+    color: #7d7d7d !important;
+}
+.princesa .post .entry-content, .princesa .post .entry-summary {
+    margin-top: 0;
+    padding: 35px;
+}
+
+.post .entry-content p.more-link {
+	text-align: center;
+}
+
+.post .entry-content .more-link a, .post .entry-summary .more-link a {
+    text-transform: inherit;
+    border-bottom: none;
+    font-size: 17px;
+}
+.princesa a, .princesa a:visited, .princesa a:focus {
+    color: #f9cf55;
+    font-family: 'Amiri', serif;
+}
+.princesa .main-navigation a:hover {
+    color: #f9cf55 !important;
+}
+.princesa .recent-posts h3 > a:hover,
+.princesa  .tm-aboutme__social__item--outline-circle a,
+.princesa  .tm-aboutme__social__item--outline-square a,
+.princesa  .tm-aboutme__social__item--circle a:hover,
+.princesa  .tm-aboutme__social__item--square a:hover,
+.princesa  .post .entry-title a:hover,
+.princesa  .pagination.posts-pagination .next:hover:after,
+.princesa  .pagination.posts-pagination .prev:hover:after,
+.princesa   .pagination.loop-pagination .next:hover:after,
+.princesa    .pagination.loop-pagination .prev:hover:after {
+    color: #f9cf55!important;
+}
+.princ-cat-tile {
+	text-align: center;
+    padding: 40px;
+    margin-bottom: 30px;
+}
+.princ-cat-tile a {
+    font-size: 32px;
+    text-transform: initial;
+    font-weight: bold;
+}
+.archive .post .entry-title {
+    font-size: 22px;
+    padding: 0 35px;
+    line-height: 1.2;
+    text-align: left;
+    margin-top: 20px;
+}
+.princesa.archive .post .entry-content, .princesa.archive .post .entry-summary {
+	padding: 0px 35px;
+}
+.princesa.archive .post .entry-content:before, .princesa.archive .post .entry-summary:before {
+	display: none;
+}
+.princesa.archive .post .entry-content p, .princesa.archive  .post .entry-summary p {
+    font-size: 14px;
+    line-height: 2;
+}
+.princesa.archive .post .entry-title a {
+    font-size: 22px;
+    letter-spacing: 0.05em;
+}
+.princ_excerpt {
+	margin-top: 15px;
+}
+.princ_more-link {
+	font-weight: bold;
+    /*padding-left: 5px;*/
+}
+.princesa .post-grid-layout .post-grid-item .post-meta.princ-meta {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    border-top: none;
+}
+
+.princesa .post-grid-item .entry-footer {
+	height: 100%;
+}
+.post-grid-layout .post-grid-item .post-date:before,
+.post-list-layout .post.post-list-item .post-date:before {
+	display: none;
+}
+.princesa .post .post-grid-layout  .post-date {
+    padding-bottom: 0;
+
+}
+.posted-on {
+	padding-left: 35px;
+}
+.princesa .post-grid-layout .post-grid-item .post-date {
+    font-size: 14px;
+    font-family: 'Mukta Mahee', sans-serif;
+}
+.princ-commen-count {
+
+}
+.princ-commen-count p {
+	margin-bottom: 0;
+	    font-size: 16px;
+}
+
+@media only screen and (min-width: 992px) {
+	.site-branding {
+	    padding: 60px 0 30px 0;
+	}
+}
+@media (max-width: 768px) { 
+
+
+}
