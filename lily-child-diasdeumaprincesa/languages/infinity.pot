@@ -1,0 +1,2921 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-06 23:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: footer.php:56
+msgid "Go to top"
+msgstr ""
+
+#: 404.php:26
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:52
+msgid "Social Profile Links"
+msgstr ""
+
+#: functions.php:53
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:114
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:123
+msgid "Footer 1 Widget Area"
+msgstr ""
+
+#: functions.php:132
+msgid "Footer 2 Widget Area"
+msgstr ""
+
+#: functions.php:141
+msgid "Footer 3 Widget Area"
+msgstr ""
+
+#: functions.php:151
+msgid "Language Widget Area"
+msgstr ""
+
+#: functions.php:301
+msgid "No posts were selected as 'featured' post."
+msgstr ""
+
+#: functions.php:308 functions.php:319 functions.php:330 functions.php:339
+msgid "Featured"
+msgstr ""
+
+#: functions.php:366 inc/vc-shortcode/thememove-post-grid.php:287
+msgid "Quote"
+msgstr ""
+
+#: functions.php:390
+msgid "Slider"
+msgstr ""
+
+#: functions.php:393
+msgid "Masonry"
+msgstr ""
+
+#: header.php:100
+msgid "Menu"
+msgstr ""
+
+#: header.php:101 header.php:101
+msgid "Skip to content"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgid "Comments (%1$s)"
+msgstr ""
+
+#: comments.php:34 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:38 comments.php:63
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:39 comments.php:64
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:85
+msgid "Your name (required)"
+msgstr ""
+
+#: comments.php:86
+msgid "Email (required)"
+msgstr ""
+
+#: comments.php:90
+msgid "Submit"
+msgstr ""
+
+#: comments.php:92
+msgid "Write a comment"
+msgstr ""
+
+#: comments.php:97
+msgid "Your comment (required)"
+msgstr ""
+
+#: template-parts/content-page.php:62 template-parts/content-single.php:128
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-list.php:56 template-parts/content.php:132
+#: template-parts/content-masonry.php:69 template-parts/content-grid.php:92
+#: inc/template-tags.php:242
+msgid "Continue reading"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/meta-box.php:49
+msgid "Page Settings"
+msgstr ""
+
+#: inc/meta-box.php:59
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/meta-box.php:60
+msgid "Custom settings for sticky header"
+msgstr ""
+
+#: inc/meta-box.php:64 inc/meta-box.php:76 inc/meta-box.php:95
+#: inc/meta-box.php:115
+msgid "Default"
+msgstr ""
+
+#: inc/meta-box.php:65 inc/meta-box.php:77
+msgid "Enable"
+msgstr ""
+
+#: inc/meta-box.php:66 inc/meta-box.php:78
+msgid "Disable"
+msgstr ""
+
+#: inc/meta-box.php:71
+msgid "Uncover Footer"
+msgstr ""
+
+#: inc/meta-box.php:72
+msgid "Custom settings for uncover footer option"
+msgstr ""
+
+#: inc/meta-box.php:83
+msgid "Custom Logo"
+msgstr ""
+
+#: inc/meta-box.php:84
+msgid "Upload an image or enter a URL for logo"
+msgstr ""
+
+#: inc/meta-box.php:90
+msgid "Page Layout"
+msgstr ""
+
+#: inc/meta-box.php:91
+msgid "Choose a layout you want"
+msgstr ""
+
+#: inc/meta-box.php:96
+msgid "Full width"
+msgstr ""
+
+#: inc/meta-box.php:97
+msgid "Content-Sidebar"
+msgstr ""
+
+#: inc/meta-box.php:98
+msgid "Sidebar-Content"
+msgstr ""
+
+#: inc/meta-box.php:103
+msgid "Disable Title"
+msgstr ""
+
+#: inc/meta-box.php:104
+msgid "Check this box to disable the title of the page"
+msgstr ""
+
+#: inc/meta-box.php:110
+msgid "Title Style"
+msgstr ""
+
+#: inc/meta-box.php:111
+msgid "Choose style for the title of the page"
+msgstr ""
+
+#: inc/meta-box.php:116 inc/meta-box.php:122
+#: inc/customizer/setups/page-heading.php:29
+msgid "Image Background"
+msgstr ""
+
+#: inc/meta-box.php:117 inc/customizer/setups/page-heading.php:30
+msgid "Single Color Background"
+msgstr ""
+
+#: inc/meta-box.php:123
+msgid "Upload an image or enter a URL for heading title"
+msgstr ""
+
+#: inc/meta-box.php:129
+msgid "Disable Parallax"
+msgstr ""
+
+#: inc/meta-box.php:130
+msgid "Check this box to disable parallax effect for heading title"
+msgstr ""
+
+#: inc/meta-box.php:136
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/meta-box.php:137
+msgid "Pick a background color for heading title"
+msgstr ""
+
+#: inc/meta-box.php:144
+msgid "Title Color"
+msgstr ""
+
+#: inc/meta-box.php:145
+msgid "Pick a color for heading title"
+msgstr ""
+
+#: inc/meta-box.php:152
+msgid "Alternative Title"
+msgstr ""
+
+#: inc/meta-box.php:153
+msgid "Enter your alternative title here"
+msgstr ""
+
+#: inc/meta-box.php:159
+msgid "Custom Class"
+msgstr ""
+
+#: inc/meta-box.php:160
+msgid "Enter custom class for this page"
+msgstr ""
+
+#: inc/template-tags.php:46 inc/template-tags.php:78
+#: inc/vc-shortcode/thememove-post-grid.php:159
+msgid "Newer Posts"
+msgstr ""
+
+#: inc/template-tags.php:47 inc/vc-shortcode/thememove-post-grid.php:160
+msgid "Older  Posts"
+msgstr ""
+
+#: inc/template-tags.php:74
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgid "Older Posts"
+msgstr ""
+
+#: inc/template-tags.php:102
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:145
+msgid "Related Posts"
+msgstr ""
+
+#: inc/template-tags.php:176
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:178
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:193 inc/template-tags.php:207 inc/extras.php:168
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:220
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:220
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:220
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:281
+#, php-format
+msgid "Category / <span> %s </span>"
+msgstr ""
+
+#: inc/template-tags.php:283
+#, php-format
+msgid "Tag / <span> %s </span>"
+msgstr ""
+
+#: inc/template-tags.php:285
+#, php-format
+msgid "Author / <span> %s </span>"
+msgstr ""
+
+#: inc/template-tags.php:287
+#, php-format
+msgid "Year : <span> %s </span>"
+msgstr ""
+
+#: inc/template-tags.php:287
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:289
+#, php-format
+msgid "Month : <span> %s </span>"
+msgstr ""
+
+#: inc/template-tags.php:289
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:291
+#, php-format
+msgid "Day : <span> %s </span>"
+msgstr ""
+
+#: inc/template-tags.php:291
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:294
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:296
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:298
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:300
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:302
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:304
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:306
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:308
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:310
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:313
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:317
+#, php-format
+msgid "%1$s / <span>%2$s</span>"
+msgstr ""
+
+#: inc/template-tags.php:319
+msgid "Archives"
+msgstr ""
+
+#: inc/back-compat.php:38 inc/back-compat.php:48 inc/back-compat.php:62
+#, php-format
+msgid ""
+"ThemeMove requires at least WordPress version 3.9. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: inc/variables.php:16
+msgid "Color Scheme 01"
+msgstr ""
+
+#: inc/variables.php:139
+msgid ""
+"Made with <a target=\"_blank\" href=\"http://thememove.com\"><i class=\"fa "
+"fa-heart\"></i></a> by ThemeMove.com. All rights Reserved."
+msgstr ""
+
+#: inc/extras.php:163
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extras.php:169
+msgid "(Edit)"
+msgstr ""
+
+#: inc/extras.php:249
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:303
+msgid "items"
+msgstr ""
+
+#: inc/extras.php:303
+msgid "item"
+msgstr ""
+
+#: inc/extras.php:303
+msgid "in cart"
+msgstr ""
+
+#: inc/extras.php:304
+msgid "Check out"
+msgstr ""
+
+#: inc/tmg-plugin-registration.php:95
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tmg-plugin-registration.php:96
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tmg-plugin-registration.php:97
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tmg-plugin-registration.php:99
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tmg-plugin-registration.php:100
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tmg-plugin-registration.php:102
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tmg-plugin-registration.php:104
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tmg-plugin-registration.php:106
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tmg-plugin-registration.php:108
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tmg-plugin-registration.php:110
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tmg-plugin-registration.php:112
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tmg-plugin-registration.php:114
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tmg-plugin-registration.php:116
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tmg-plugin-registration.php:118
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tmg-plugin-registration.php:119
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tmg-plugin-registration.php:120
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tmg-plugin-registration.php:121
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tmg-plugin-registration.php:122
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tmg-plugin-registration.php:123
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tmg-plugin-registration.php:124
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tmg-plugin-registration.php:126
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tmg-plugin-registration.php:128
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tmg-plugin-registration.php:130
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/welcome.php:9
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: core/welcome.php:11
+#, php-format
+msgid ""
+"Thank you for purchased the latest version! %s is powerful, stable and "
+"secure. We hope you enjoy using it."
+msgstr ""
+
+#: core/welcome.php:13
+msgid "Best Features"
+msgstr ""
+
+#: core/welcome.php:17
+msgid "Live preview with Customizer"
+msgstr ""
+
+#: core/welcome.php:18
+msgid ""
+"You can use the Customizer to modify Appearance settings in a live preview. "
+"To access the Customizer for your current theme, you can go to ThemeMove >> "
+"Customize in your dashboard."
+msgstr ""
+
+#: core/welcome.php:22
+msgid "One click update"
+msgstr ""
+
+#: core/welcome.php:23
+msgid ""
+"You can launch the update by clicking the link in the new version banner (if "
+"it's there) or by going to the Dashboard > Updates screen. Once you are on "
+"the \"Update WordPress\" page, click the button \"Update Now\" to start the "
+"process off. You shouldn't need to do anything else and, once it's finished, "
+"you will be up-to-date."
+msgstr ""
+
+#: core/welcome.php:26
+msgid "One click demo setup"
+msgstr ""
+
+#: core/welcome.php:27
+msgid ""
+"Start your website with carbon copy of our demo, surly it will make a "
+"difference."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:33
+#: inc/widget/thememove_instagram_widget.php:325
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:37
+#: inc/widget/thememove_instagram_widget.php:329
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:45
+#: inc/vc-shortcode/thememove-instagram.php:57
+#: inc/vc-shortcode/thememove-instagram.php:61
+#: inc/widget/thememove_instagram_widget.php:337
+#: inc/widget/thememove_instagram_widget.php:349
+#: inc/widget/thememove_instagram_widget.php:353
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:88
+#: inc/widget/thememove_instagram_widget.php:380
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:187
+#: inc/widget/thememove_aboutme_widget.php:66
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:41
+msgid "Instagram"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:188
+#: inc/widget/thememove_instagram_widget.php:39
+msgid "Displays latest Instagram photos"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:190
+#: inc/vc-shortcode/thememove-facebook-page-like.php:18
+#: inc/vc-shortcode/thememove-recentposts.php:34
+#: inc/vc-shortcode/thememove-aboutme.php:33
+#: inc/vc-shortcode/thememove-twitter.php:128
+#: inc/vc-shortcode/thememove-testimonials.php:17
+#: inc/vc-shortcode/thememove-post-grid.php:176
+#: inc/vc-shortcode/thememove-gmaps.php:26
+msgid "by THEMEMOVE"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:193
+#: inc/vc-shortcode/thememove-instagram.php:202
+#: inc/vc-shortcode/thememove-instagram.php:210
+#: inc/vc-shortcode/thememove-instagram.php:227
+#: inc/vc-shortcode/thememove-instagram.php:234
+#: inc/vc-shortcode/thememove-instagram.php:242
+#: inc/vc-shortcode/thememove-instagram.php:250
+#: inc/vc-shortcode/thememove-instagram.php:258
+#: inc/vc-shortcode/thememove-instagram.php:266
+#: inc/vc-shortcode/thememove-instagram.php:274
+#: inc/vc-shortcode/thememove-aboutme.php:36
+#: inc/vc-shortcode/thememove-aboutme.php:44
+#: inc/vc-shortcode/thememove-aboutme.php:54
+#: inc/vc-shortcode/thememove-aboutme.php:61
+#: inc/vc-shortcode/thememove-aboutme.php:74
+#: inc/vc-shortcode/thememove-aboutme.php:82
+#: inc/vc-shortcode/thememove-post-grid.php:179
+#: inc/vc-shortcode/thememove-post-grid.php:197
+#: inc/vc-shortcode/thememove-post-grid.php:205
+#: inc/vc-shortcode/thememove-post-grid.php:292
+#: inc/vc-shortcode/thememove-post-grid.php:312
+#: inc/vc-shortcode/thememove-post-grid.php:320
+#: inc/vc-shortcode/thememove-post-grid.php:336
+#: inc/vc-shortcode/thememove-post-grid.php:358
+#: inc/customizer/customizer.php:103 inc/customizer/customizer.php:164
+#: inc/customizer/customizer.php:174 inc/customizer/customizer.php:185
+#: inc/customizer/customizer.php:203 inc/customizer/customizer.php:237
+msgid "General"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:195
+msgid "Instagram Username"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:199
+msgid "Enter Instagram username (not include @). Example: <b>thememove</b>"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:204
+#: inc/widget/thememove_instagram_widget.php:218
+msgid "Number of items"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:212
+#: inc/vc-shortcode/thememove-post-grid.php:294
+#: inc/widget/thememove_instagram_widget.php:223
+msgid "Item Width"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:213
+#: inc/vc-shortcode/thememove-post-grid.php:295
+#: inc/widget/thememove_instagram_widget.php:227
+msgid "Enter item width in a row (has 12 columns)"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:217
+msgid "Default (2 columns - 1/6 - 6 items in a row)"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:218
+#: inc/vc-shortcode/thememove-post-grid.php:299
+#: inc/widget/thememove_instagram_widget.php:44
+#: inc/vc-params/thememove-responsive/thememove_responsive.php:39
+msgid "1 columns - 1/1 - 12 items in a row"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:219
+#: inc/vc-shortcode/thememove-post-grid.php:300
+#: inc/widget/thememove_instagram_widget.php:45
+#: inc/vc-params/thememove-responsive/thememove_responsive.php:40
+msgid "2 columns - 1/6 - 6 items in a row"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:220
+#: inc/vc-shortcode/thememove-post-grid.php:301
+#: inc/widget/thememove_instagram_widget.php:46
+#: inc/vc-params/thememove-responsive/thememove_responsive.php:41
+msgid "3 columns - 1/4 - 4 items in a row"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:221
+#: inc/vc-shortcode/thememove-post-grid.php:302
+#: inc/widget/thememove_instagram_widget.php:47
+#: inc/vc-params/thememove-responsive/thememove_responsive.php:42
+msgid "4 columns - 1/3 - 3 items in a row"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:222
+#: inc/vc-shortcode/thememove-post-grid.php:303
+#: inc/widget/thememove_instagram_widget.php:48
+#: inc/vc-params/thememove-responsive/thememove_responsive.php:43
+msgid "6 columns - 1/2 - 2 items in a row"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:223
+#: inc/vc-shortcode/thememove-post-grid.php:304
+#: inc/widget/thememove_instagram_widget.php:49
+#: inc/vc-params/thememove-responsive/thememove_responsive.php:44
+msgid "12 columns - 1/1 - 1 item in a row"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:229
+#: inc/widget/thememove_instagram_widget.php:229
+msgid "Item spacing"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:238
+#: inc/widget/thememove_instagram_widget.php:235
+msgid "Show likes and comments"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:246
+#: inc/widget/thememove_instagram_widget.php:239
+msgid "Show follow text"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:252
+#: inc/widget/thememove_instagram_widget.php:242
+msgid "Text"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:254
+#: inc/widget/thememove_instagram_widget.php:71
+#: inc/widget/thememove_instagram_widget.php:191
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:262
+#: inc/vc-shortcode/thememove-aboutme.php:78
+#: inc/widget/thememove_aboutme_widget.php:206
+msgid "Open links in new page"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:270
+#: inc/widget/thememove_instagram_widget.php:252
+msgid "Show square media"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:276
+#: inc/vc-shortcode/thememove-recentposts.php:71
+#: inc/vc-shortcode/thememove-aboutme.php:84
+#: inc/vc-shortcode/thememove-twitter.php:207
+#: inc/vc-shortcode/thememove-testimonials.php:119
+#: inc/vc-shortcode/thememove-post-grid.php:338
+#: inc/vc-shortcode/thememove-gmaps.php:123
+msgid "Extra class name"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:278
+#: inc/vc-shortcode/thememove-recentposts.php:73
+#: inc/vc-shortcode/thememove-aboutme.php:86
+#: inc/vc-shortcode/thememove-twitter.php:209
+#: inc/vc-shortcode/thememove-testimonials.php:121
+#: inc/vc-shortcode/thememove-post-grid.php:340
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:281
+#: inc/vc-shortcode/thememove-post-grid.php:343
+msgid "Responsive Options"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:283
+#: inc/vc-shortcode/thememove-post-grid.php:345
+#: inc/widget/thememove_instagram_widget.php:254
+msgid "Responsiveness"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-instagram.php:285
+#: inc/vc-shortcode/thememove-post-grid.php:347
+msgid "Adjust Number of items in a row for different screen sizes."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:15
+msgid "Facebook Page Like"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:17
+#: inc/widget/thememove_facebook_widget.php:19
+msgid "Facebook Page \"Like\" button"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:22
+#: inc/widget/thememove_facebook_widget.php:83
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:23
+msgid ""
+"Enter your facebook page URL, example: https://www.facebook.com/thememove"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:28
+#: inc/vc-shortcode/thememove-gmaps.php:57
+#: inc/widget/thememove_facebook_widget.php:88
+msgid "Width"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:29
+#: inc/widget/thememove_facebook_widget.php:92
+msgid "The pixel width of the embed (Min. 180 to Max. 500)"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:34
+#: inc/vc-shortcode/thememove-gmaps.php:50
+#: inc/widget/thememove_facebook_widget.php:94
+msgid "Height"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:35
+#: inc/widget/thememove_facebook_widget.php:98
+msgid "The pixel height of the embed (Min. 70)"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:42
+#: inc/widget/thememove_facebook_widget.php:101
+msgid "Use Small Header"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:44
+#: inc/widget/thememove_facebook_widget.php:103
+msgid "Uses a smaller version of the page header"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:50
+#: inc/widget/thememove_facebook_widget.php:106
+msgid "Adapt to shortcode container width"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:52
+#: inc/widget/thememove_facebook_widget.php:108
+msgid "Shortcode will try to fit inside the container"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:57
+#: inc/widget/thememove_facebook_widget.php:111
+msgid "Hide cover photo"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:60
+#: inc/widget/thememove_facebook_widget.php:113
+msgid "Hide the cover photo in the header"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:66
+#: inc/widget/thememove_facebook_widget.php:116
+msgid "Show Friend's Faces"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:68
+#: inc/widget/thememove_facebook_widget.php:118
+msgid "Show profile photos when friends like this"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:74
+#: inc/widget/thememove_facebook_widget.php:121
+msgid "Show Page Posts"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-facebook-page-like.php:76
+#: inc/widget/thememove_facebook_widget.php:123
+msgid "Show posts from the Page's timeline"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-recentposts.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-recentposts.php:59
+#: inc/widget/thememove_recent_posts_widget.php:149
+msgid "Enter numbers of articles"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-recentposts.php:64
+#: inc/widget/thememove_recent_posts_widget.php:154
+msgid "Image size"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-recentposts.php:66
+#: inc/widget/thememove_recent_posts_widget.php:158
+msgid ""
+"Enter image size (Example: \"small\", \"thumbnail\", \"medium\", \"large\", "
+"\"full\" ). Alternatively enter size in pixels (Example: 200x100 (Width x "
+"Height))."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-aboutme.php:30
+msgid "About me"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-aboutme.php:32
+msgid "Display your information"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-aboutme.php:38
+msgid "Avatar Image"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-aboutme.php:41
+#: inc/widget/thememove_aboutme_widget.php:182
+msgid "Select images from media library."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-aboutme.php:46
+msgid "Image shape"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-aboutme.php:56
+msgid "Description"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-aboutme.php:63
+#: inc/widget/thememove_aboutme_widget.php:195
+msgid "Icon background shape"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-aboutme.php:64
+#: inc/widget/thememove_aboutme_widget.php:203
+msgid "Select background shape and style for icon"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-aboutme.php:89
+msgid "Social"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-aboutme.php:91
+#: inc/widget/thememove_aboutme_widget.php:209
+msgid "Social links"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-aboutme.php:93
+msgid "Enter your social links."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:113
+#: inc/widget/thememove_twitter_widget.php:256
+msgid "Reply"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:113
+#: inc/widget/thememove_twitter_widget.php:256
+msgid "reply"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:114
+#: inc/widget/thememove_twitter_widget.php:257
+msgid "Retweet"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:114
+#: inc/widget/thememove_twitter_widget.php:257
+msgid "retweet"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:115
+#: inc/widget/thememove_twitter_widget.php:258
+msgid "Favorite"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:115
+#: inc/widget/thememove_twitter_widget.php:258
+msgid "favorite"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:125
+#: inc/widget/thememove_aboutme_widget.php:80
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:55
+msgid "Twitter"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:127
+msgid "Latest tweets widget"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:133
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:136
+msgid ""
+"\n"
+"<p>You need to authenticate yourself to Twitter with creating an app for get "
+"access information to retrieve your tweets and display them on your page.</p>"
+"<ol>\n"
+"    <li>Go to <a href=\"http://goo.gl/tyCR5W\" target=\"_blank\">https:"
+"//apps.twitter.com/app/new</a> and log in, if necessary</li>\n"
+"    <li>Enter your Application Name, Description and your website address. "
+"You can leave the callback URL empty.</li>\n"
+"    <li>Submit the form by clicking the Create your Twitter Application</li>"
+"\n"
+"    <li>Go to the \"Keys and Access Token\" tab and copy the consumer key "
+"(API key) and consumer secret</li>\n"
+"    <li>Paste them in the following input boxes</li>\n"
+"    <li>Click on the \"Create my access token\" in bottom of page for "
+"creating access token and copy them</li>\n"
+"    <li>Paste them in the following input boxes</li>\n"
+"  </ol>\n"
+"  "
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:150
+msgid "Style"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:161
+#: inc/widget/thememove_twitter_widget.php:117
+msgid "Consumer Key (API Key)"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:167
+#: inc/widget/thememove_twitter_widget.php:122
+msgid "Consumer Secret (API Secret)"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:173
+#: inc/widget/thememove_twitter_widget.php:127
+msgid "Access Token"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:179
+#: inc/widget/thememove_twitter_widget.php:132
+msgid "Access Token Secret"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:186
+#: inc/widget/thememove_twitter_widget.php:140
+msgid "Show Reply, Retweet and Favorite buttons"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:188
+#: inc/widget/thememove_twitter_widget.php:138
+msgid "Show Twitter Buttons?"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:194
+#: inc/widget/thememove_twitter_widget.php:142
+msgid "Number of Tweets"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-twitter.php:202
+msgid "Open Tweet Links in New Window"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:15
+msgid "Testimonials"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:22
+msgid "Enable Carousel"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:31
+msgid "Show Bullets"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:41
+msgid "Enable Autoplay"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:51
+msgid "Number"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:54
+msgid "Number of Testimonials"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:71
+msgid "Order"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:77
+msgid "How to order the items"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:81
+msgid "Show Author Info"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:87
+msgid "Choose yes to show author name and byline"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:91
+msgid "Show URL"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:97
+msgid "Choose yes to show author url"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:102
+msgid "Show Author Image"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:112
+msgid "Avatar Size"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-testimonials.php:115
+msgid "Size of Avatar"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:173
+msgid "Post Grid"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:174
+msgid "Show all posts in grid."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:181
+msgid "Post layout"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:182
+msgid "Select a template to display post"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:186
+#: inc/customizer/setups/post-layout.php:26
+msgid "Full Post Layout"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:187
+#: inc/customizer/setups/post-layout.php:27
+msgid "Grid Post Layout"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:188
+#: inc/customizer/setups/post-layout.php:28
+msgid "1st Full Post then Grid Layout"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:189
+#: inc/customizer/setups/post-layout.php:29
+msgid "List Post Layout"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:190
+#: inc/customizer/setups/post-layout.php:30
+msgid "1st Full Post then List Layout"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:191
+#: inc/customizer/setups/post-layout.php:31
+msgid "Masonry Post Layout"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:192
+#: inc/customizer/setups/post-layout.php:32
+msgid "1st Full Post then Masonry Layout"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:193
+msgid "Simple Post Layout"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:199
+msgid "Total Posts"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:202
+msgid ""
+"Set max limit for items in grid or enter -1 to display all (limited to 1000)"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:207
+msgid "Posts per page"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:210
+msgid "Number of items to show per page"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:214
+#: inc/vc-shortcode/thememove-post-grid.php:229
+#: inc/vc-shortcode/thememove-post-grid.php:240
+#: inc/vc-shortcode/thememove-post-grid.php:251
+#: inc/vc-shortcode/thememove-post-grid.php:268
+#: inc/vc-shortcode/thememove-post-grid.php:276
+msgid "Data Settings"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:216
+msgid "Order by"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:218
+msgid "Select order type."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:220
+msgid "Date"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:221
+msgid "Post ID"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:222
+msgid "Author"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:223
+#: inc/widget/thememove_facebook_widget.php:78
+#: inc/widget/thememove_aboutme_widget.php:172
+#: inc/widget/thememove_instagram_widget.php:208
+#: inc/widget/thememove_recent_posts_widget.php:132
+#: inc/widget/thememove_twitter_widget.php:84
+msgid "Title"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:224
+msgid "Last modified date"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:225
+msgid "Random order"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:231
+msgid "Sorting"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:233
+msgid "Select sorting order."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:235
+msgid "Descending"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:236
+msgid "Ascending"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:242
+msgid "Filter by"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:244
+msgid "Select filter source."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:246
+msgid "Categories"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:247
+msgid "Tags"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:254
+msgid "Enter categories, tags to filter."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:272
+msgid "Enable Filter by post format"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:278
+msgid "Post Format"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:280
+msgid "Select post format to filter."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:282
+msgid "All"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:283
+msgid "Standard"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:284
+msgid "Gallery"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:285
+msgid "Video"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:286
+msgid "Audio"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:298
+msgid "Default (6 columns - 1/2 - 2 items in a row)"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:314
+msgid "Number of columns"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:322
+msgid "Number of posts in a row"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:325
+#: inc/vc-shortcode/thememove-post-grid.php:395
+msgid "Default (2 posts)"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:326
+#: inc/vc-shortcode/thememove-post-grid.php:396
+#: inc/customizer/setups/post-featured.php:91
+msgid "12 posts"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:327
+#: inc/vc-shortcode/thememove-post-grid.php:397
+#: inc/customizer/setups/post-featured.php:92
+msgid "6  posts"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:328
+#: inc/vc-shortcode/thememove-post-grid.php:398
+#: inc/customizer/setups/post-featured.php:93
+msgid "4  posts"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:329
+#: inc/vc-shortcode/thememove-post-grid.php:399
+#: inc/customizer/setups/post-featured.php:94
+msgid "3  posts"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:330
+#: inc/vc-shortcode/thememove-post-grid.php:400
+#: inc/customizer/setups/post-featured.php:95
+msgid "2  posts"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:331
+#: inc/vc-shortcode/thememove-post-grid.php:401
+#: inc/customizer/setups/post-featured.php:96
+msgid "1  posts"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:362
+msgid "Enable featured posts"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:378
+#: inc/vc-shortcode/thememove-post-grid.php:389
+#: inc/vc-shortcode/thememove-post-grid.php:409
+#: inc/customizer/customizer.php:225
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:380
+#: inc/customizer/setups/post-featured.php:50
+msgid "Number of featured posts"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:391
+#: inc/customizer/setups/post-featured.php:89
+msgid "Number of featured posts in a row"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:392
+msgid ""
+"If you are using 'Masonry' Post Layout, this option will does not work and "
+"all featured posts will show in only one column."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-post-grid.php:411
+#: inc/customizer/setups/post-featured.php:135
+msgid "Show Featured posts after how many posts?"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:24
+msgid "Google Maps"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:30
+msgid "Address or Coordinate"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:34
+msgid ""
+"Enter address or coordinate. To learn how to get coordinates, visit <a "
+"href=\"https://support.google.com/maps/answer/18539?hl=en\" "
+"target=\"_blank\">here</a>"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:38
+msgid "Marker icon"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:40
+msgid "Choose a image for marker address"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:44
+msgid "Marker Information"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:46
+msgid "Content for info window"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:53
+msgid "Enter map height (in pixels or percentage)"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:60
+msgid "Enter map width (in pixels or percentage)"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:64
+msgid "Zoom level"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:67
+msgid "Map zoom level"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:71
+msgid "Enable Map zoom"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:79
+msgid "Map type"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:82
+msgid "Choose a map type"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:92
+msgid "Map style"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:95
+msgid ""
+"Choose a map style. This approach changes the style of the Roadmap types "
+"(base imagery in terrain and satellite views is not affected, but roads, "
+"labels, etc. respect styling rules"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:113
+msgid "Map style snippet"
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:115
+msgid ""
+"To get the style snippet, visit <a href=\"https://snazzymaps.com\" "
+"target=\"_blank\">Snazzymaps</a> or <a href=\"http://www.mapstylr.com/\" "
+"target=\"_blank\">Mapstylr</a>."
+msgstr ""
+
+#: inc/vc-shortcode/thememove-gmaps.php:125
+msgid ""
+"If you want to use multiple Google Maps in one page, please add a class name "
+"for them."
+msgstr ""
+
+#: inc/customizer/customizer.php:46 inc/customizer/customizer.php:248
+msgid "Site"
+msgstr ""
+
+#: inc/customizer/customizer.php:47
+msgid "In this section you can control all settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:52 inc/customizer/customizer.php:255
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:53 inc/customizer/customizer.php:175
+msgid "In this section you can control all header settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:58 inc/customizer/customizer.php:262
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:59
+msgid ""
+"In this section you can control all menu settings of your main page content"
+msgstr ""
+
+#: inc/customizer/customizer.php:64
+msgid "Post & Archive"
+msgstr ""
+
+#: inc/customizer/customizer.php:65
+msgid "In this section you can control all menu settings of posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:70 inc/customizer/customizer.php:269
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:71
+msgid "Scroll to bottom of page to see the change"
+msgstr ""
+
+#: inc/customizer/customizer.php:76 inc/customizer/customizer.php:290
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer/customizer.php:77
+msgid "In this section you can control all menu settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:82 inc/customizer/customizer.php:297
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/customizer.php:83
+msgid "In this section you can control all button settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:88 inc/customizer/setups/color-search.php:23
+#: inc/customizer/setups/color-social.php:23
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:89 inc/customizer/customizer.php:249
+msgid "In this section you can control all color settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:94
+msgid "Custom code"
+msgstr ""
+
+#: inc/customizer/customizer.php:95
+msgid "In this section you can add custom JavaScript and CSS to your site."
+msgstr ""
+
+#: inc/customizer/customizer.php:104 inc/customizer/customizer.php:322
+#: inc/customizer/customizer.php:328
+msgid "In this section you can control all general settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:110 inc/customizer/customizer.php:117
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:111
+msgid "In this section you can change layout for page of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:118
+msgid "In this section you can control layout for pages of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:124
+msgid "Logo & Favicon"
+msgstr ""
+
+#: inc/customizer/customizer.php:125
+msgid "In this section you can control logo, favicon of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+#: inc/customizer/setups/site-breadcrumb.php:13
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/customizer.php:137 inc/customizer/setups/page-heading.php:272
+#: inc/customizer/setups/button-general.php:115
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/customizer.php:138
+msgid "In this section you can control all typography settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:144 inc/customizer/setups/page-heading.php:38
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:145
+msgid "In this section you can change background image of the site"
+msgstr ""
+
+#: inc/customizer/customizer.php:154
+msgid "Setup"
+msgstr ""
+
+#: inc/customizer/customizer.php:155
+msgid ""
+"Select which menu you would like to use. You can edit your menu content on "
+"the Menus screen in the Appearance section"
+msgstr ""
+
+#: inc/customizer/customizer.php:186
+msgid ""
+"In this section you can control all general settings for main page content"
+msgstr ""
+
+#: inc/customizer/customizer.php:192
+msgid "Heading Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:193
+msgid "In this section you can control page heading"
+msgstr ""
+
+#: inc/customizer/customizer.php:204
+msgid "In this section you can control all general settings for posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:210
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/customizer.php:211
+msgid ""
+"In this section you can control all general settings for single post page"
+msgstr ""
+
+#: inc/customizer/customizer.php:217
+msgid "Post Grid Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:218
+msgid "In this section you can set up layout for posts grid in archive page"
+msgstr ""
+
+#: inc/customizer/customizer.php:226
+msgid ""
+"In this section you can control all settings for featured posts in archive "
+"page."
+msgstr ""
+
+#: inc/customizer/customizer.php:238
+msgid "In this section you can control all footer settings of your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:256
+msgid "In this section you can control all color settings of header."
+msgstr ""
+
+#: inc/customizer/customizer.php:263
+msgid ""
+"In this section you can control all color settings of main page content."
+msgstr ""
+
+#: inc/customizer/customizer.php:270
+msgid "In this section you can control all color settings of footer."
+msgstr ""
+
+#: inc/customizer/customizer.php:276
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/customizer.php:277
+msgid "In this section you can control all color settings of social icons."
+msgstr ""
+
+#: inc/customizer/customizer.php:283
+#: inc/customizer/setups/header-general.php:44
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/customizer.php:284
+msgid "In this section you can control all color settings of search."
+msgstr ""
+
+#: inc/customizer/customizer.php:291
+msgid "In this section you can control all color settings of navigation."
+msgstr ""
+
+#: inc/customizer/customizer.php:298
+msgid "In this section you can control all color settings of button."
+msgstr ""
+
+#: inc/customizer/customizer.php:304
+msgid "Main Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:305
+msgid "In this section you can control all color settings of content section."
+msgstr ""
+
+#: inc/customizer/customizer.php:311
+#: inc/customizer/setups/footer-general.php:36
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/customizer.php:312
+msgid "In this section you can control all color settings of copyright."
+msgstr ""
+
+#: inc/customizer/customizer.php:321 inc/customizer/setups/custom-css.php:23
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:327 inc/customizer/setups/custom-js.php:23
+msgid "Custom JS"
+msgstr ""
+
+#: inc/customizer/io.php:12 inc/customizer/io.php:17
+msgid "Export"
+msgstr ""
+
+#: inc/customizer/io.php:15
+msgid ""
+"Click the button below to export the customization settings for this theme."
+msgstr ""
+
+#: inc/customizer/io.php:19 inc/customizer/io.php:24
+msgid "Import"
+msgstr ""
+
+#: inc/customizer/io.php:22
+msgid "Upload a file to import customization settings for this theme."
+msgstr ""
+
+#: inc/widget/thememove_facebook_widget.php:19
+msgid "ThemeMove - Facebook Page Like"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:46
+msgid "ThemeMove - About me"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:51
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:26
+msgid "Amazon"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:52
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:27
+msgid "500px"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:53
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:28
+msgid "Behance"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:54
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:29
+msgid "Bitbucket"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:55
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:30
+msgid "Codepen"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:56
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:31
+msgid "Dashcube"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:57
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:32
+msgid "Delicious"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:58
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:33
+msgid "DeviantArt"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:59
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:34
+msgid "Digg"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:60
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:35
+msgid "Dribbble"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:61
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:36
+msgid "Facebook"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:62
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:37
+msgid "Flickr"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:63
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:38
+msgid "Foursquare"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:64
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:39
+msgid "Github"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:65
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:40
+msgid "Google+"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:67
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:42
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:68
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:43
+msgid "Odnoklassniki"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:69
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:44
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:70
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:45
+msgid "QQ"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:71
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:46
+msgid "RSS"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:72
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:47
+msgid "Reddit"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:73
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:48
+msgid "Skype"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:74
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:49
+msgid "Slack"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:75
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:50
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:76
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:51
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:77
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:52
+msgid "Tripadvisor"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:78
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:53
+msgid "Tumblr"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:79
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:54
+msgid "Twitch"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:81
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:56
+msgid "Vine"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:82
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:57
+msgid "Weibo"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:83
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:58
+msgid "Wikipedia"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:84
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:59
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:85
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:60
+msgid "Wordpress"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:86
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:61
+msgid "Yahoo"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:87
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:62
+msgid "Youtube"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:177
+msgid "Image"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:180
+msgid "Select Image"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:184
+msgid "Image Shape"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:186
+#: inc/widget/thememove_aboutme_widget.php:197
+msgid "Circle"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:187
+#: inc/widget/thememove_aboutme_widget.php:198
+msgid "Square"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:199
+msgid "Outline Circle"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:200
+msgid "Outline Square"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:213
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:107
+msgid "Social Network"
+msgstr ""
+
+#: inc/widget/thememove_aboutme_widget.php:214
+#: inc/vc-params/thememove-social-links/thememove_social_links.php:108
+msgid "Link"
+msgstr ""
+
+#: inc/widget/thememove_instagram_widget.php:39
+msgid "ThemeMove - Instagram"
+msgstr ""
+
+#: inc/widget/thememove_instagram_widget.php:213
+#: inc/widget/thememove_twitter_widget.php:89
+msgid "User Name"
+msgstr ""
+
+#: inc/widget/thememove_instagram_widget.php:248
+msgid "Open links in new page:"
+msgstr ""
+
+#: inc/widget/thememove_instagram_widget.php:257
+#: inc/vc-params/thememove-responsive/thememove_responsive.php:86
+msgid "Device"
+msgstr ""
+
+#: inc/widget/thememove_instagram_widget.php:258
+#: inc/vc-params/thememove-responsive/thememove_responsive.php:87
+msgid "Item width"
+msgstr ""
+
+#: inc/widget/thememove_instagram_widget.php:259
+#: inc/vc-params/thememove-responsive/thememove_responsive.php:88
+msgid "Hide on device?"
+msgstr ""
+
+#: inc/widget/thememove_instagram_widget.php:290
+#: inc/vc-params/thememove-responsive/thememove_responsive.php:61
+msgid "Default value from \"Number of items in a row\" attribute"
+msgstr ""
+
+#: inc/widget/thememove_instagram_widget.php:293
+#: inc/vc-params/thememove-responsive/thememove_responsive.php:64
+msgid "Inherit from smaller"
+msgstr ""
+
+#: inc/widget/thememove_recent_posts_widget.php:21
+msgid "ThemeMove - Recent Posts"
+msgstr ""
+
+#: inc/widget/thememove_recent_posts_widget.php:21
+msgid "Your site's most recent Posts."
+msgstr ""
+
+#: inc/widget/thememove_recent_posts_widget.php:138
+msgid "Show post title"
+msgstr ""
+
+#: inc/widget/thememove_recent_posts_widget.php:142
+msgid "Show excerpt"
+msgstr ""
+
+#: inc/widget/thememove_recent_posts_widget.php:146
+msgid "Show meta"
+msgstr ""
+
+#: inc/widget/thememove_twitter_widget.php:19
+msgid "ThemeMove - Twitter"
+msgstr ""
+
+#: inc/widget/thememove_twitter_widget.php:19
+msgid "Latest tweets widget."
+msgstr ""
+
+#: inc/widget/thememove_twitter_widget.php:94
+msgid "Select Style"
+msgstr ""
+
+#: inc/widget/thememove_twitter_widget.php:97
+msgid "Avatar Image Float Left"
+msgstr ""
+
+#: inc/widget/thememove_twitter_widget.php:98
+msgid "Align Center"
+msgstr ""
+
+#: inc/widget/thememove_twitter_widget.php:99
+msgid "Only text (without avatar image)"
+msgstr ""
+
+#: inc/widget/thememove_twitter_widget.php:102
+msgid ""
+"\n"
+"      <p class=\"help\">\n"
+"        You need to authenticate yourself to Twitter with creating an app "
+"for get access information to retrieve your tweets and display them on your "
+"page\n"
+"      </p>\n"
+"      <ol>\n"
+"        <li>Go to <a href=\"http://goo.gl/tyCR5W\" target=\"_blank\">https:"
+"//apps.twitter.com/app/new</a> and log in, if necessary</li>\n"
+"        <li>Enter your Application Name, Description and your website "
+"address. You can leave the callback URL empty.</li>\n"
+"        <li>Submit the form by clicking the Create your Twitter "
+"Application</li>\n"
+"        <li>Go to the \"Keys and Access Token\" tab and copy the consumer "
+"key (API key) and consumer secret</li>\n"
+"        <li>Paste them in the following input boxes</li>\n"
+"        <li>Click on the \"Create my access token\" in bottom of page for "
+"creating access token and copy them</li>\n"
+"        <li>Paste them in the following input boxes</li>\n"
+"      </ol>\n"
+"      "
+msgstr ""
+
+#: inc/widget/thememove_twitter_widget.php:148
+msgid "Open Tweet Links in New Page"
+msgstr ""
+
+#: inc/customizer/setups/page-general.php:23
+#: inc/customizer/setups/page-heading.php:134
+#: inc/customizer/setups/page-heading.php:148
+#: inc/customizer/setups/button-general.php:16
+#: inc/customizer/setups/button-general.php:23
+msgid "Padding"
+msgstr ""
+
+#: inc/customizer/setups/page-general.php:24
+#: inc/customizer/setups/page-heading.php:149
+#: inc/customizer/setups/button-general.php:24
+msgid "Padding Top"
+msgstr ""
+
+#: inc/customizer/setups/page-general.php:47
+#: inc/customizer/setups/page-heading.php:179
+#: inc/customizer/setups/button-general.php:46
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/customizer/setups/page-general.php:70
+#: inc/customizer/setups/page-heading.php:209
+#: inc/customizer/setups/button-general.php:68
+msgid "Padding Left"
+msgstr ""
+
+#: inc/customizer/setups/page-general.php:93
+#: inc/customizer/setups/page-heading.php:239
+#: inc/customizer/setups/button-general.php:90
+msgid "Padding Right"
+msgstr ""
+
+#: inc/customizer/setups/color-button.php:23
+#: inc/customizer/setups/color-footer.php:24
+#: inc/customizer/setups/color-footer.php:139
+#: inc/customizer/setups/color-nav.php:322
+#: inc/customizer/setups/color-nav.php:351
+#: inc/customizer/setups/page-heading.php:79
+#: inc/customizer/setups/color-page.php:24
+#: inc/customizer/setups/color-header.php:24
+#: inc/customizer/setups/color-copyright.php:23
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/setups/color-button.php:39
+msgid "Background color on hover"
+msgstr ""
+
+#: inc/customizer/setups/color-button.php:65
+#: inc/customizer/setups/color-footer.php:42
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/setups/color-button.php:81
+msgid "Border color on hover"
+msgstr ""
+
+#: inc/customizer/setups/color-button.php:107
+#: inc/customizer/setups/page-heading.php:113
+#: inc/customizer/setups/color-header.php:51
+#: inc/customizer/setups/color-copyright.php:41
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/setups/color-button.php:124
+msgid "Text color on hover"
+msgstr ""
+
+#: inc/customizer/setups/site-typo.php:15
+msgid "Settings for body font"
+msgstr ""
+
+#: inc/customizer/setups/site-typo.php:23
+#: inc/customizer/setups/site-typo.php:89
+#: inc/customizer/setups/page-heading.php:286
+#: inc/customizer/setups/button-general.php:122
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/setups/site-typo.php:38
+#: inc/customizer/setups/site-typo.php:106
+#: inc/customizer/setups/page-heading.php:308
+#: inc/customizer/setups/button-general.php:137
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/setups/site-typo.php:58
+#: inc/customizer/setups/page-heading.php:335
+#: inc/customizer/setups/button-general.php:156
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/setups/site-typo.php:81
+msgid "Settings for heading font"
+msgstr ""
+
+#: inc/customizer/setups/site-typo.php:135
+msgid "H1 Font Size"
+msgstr ""
+
+#: inc/customizer/setups/site-typo.php:165
+msgid "H2 Font Size"
+msgstr ""
+
+#: inc/customizer/setups/site-typo.php:195
+msgid "H3 Font Size"
+msgstr ""
+
+#: inc/customizer/setups/site-typo.php:225
+msgid "H4 Font Size"
+msgstr ""
+
+#: inc/customizer/setups/site-typo.php:255
+msgid "H5 Font Size"
+msgstr ""
+
+#: inc/customizer/setups/site-typo.php:285
+msgid "H6 Font Size"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:25
+msgid "Display Full Post"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:26
+msgid ""
+"Turn on this option if you want to display full post, turn off if you want "
+"to display the excerpt. The excerpt will NOT cut off mid-sentence."
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:36
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:37
+msgid "Max excerpt length. Length is set in characters."
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:63
+msgid "Post Title Position"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:64
+msgid ""
+"Turn on this option if you want to display the post title above the featured "
+"image, otherwise, turn off it."
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:83
+msgid "Hide related posts"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:84
+msgid ""
+"Turn on this option if you want to hide related posts section when display a "
+"post"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:102
+msgid "Hide author info box"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:103
+msgid ""
+"Turn on this option if you want to hide the author info box section when "
+"display a post"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:122
+msgid "Hide Category"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:123
+msgid "Turn on this option if you want to hide category when display a post"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:142
+msgid "Hide Date"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:143
+msgid "Turn on this option if you want to hide date when display a post"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:162
+msgid "Hide Tags"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:163
+msgid "Turn on this option if you want to hide tags when display a post"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:182
+msgid "Hide Share Buttons"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:183
+msgid ""
+"Turn on this option if you want to hide share buttons when display a post"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:202
+msgid "Hide 'Continue Reading' Button"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:203
+msgid ""
+"Turn on this option if you want to hide read more button when display a post"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:222
+msgid "Hide Comment Link"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:223
+msgid ""
+"Turn on this option if you want to hide comment link when display a post"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:242
+msgid "Hide Featured Image"
+msgstr ""
+
+#: inc/customizer/setups/post-general.php:243
+msgid ""
+"Turn on this option if you want to hide featured image when display a post"
+msgstr ""
+
+#: inc/customizer/setups/site-logo-favicon.php:22
+msgid "Logo Image"
+msgstr ""
+
+#: inc/customizer/setups/site-logo-favicon.php:23
+msgid "Choose a default logo image to display"
+msgstr ""
+
+#: inc/customizer/setups/site-logo-favicon.php:42
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: inc/customizer/setups/site-logo-favicon.php:43
+msgid "File must be .png format. Optimal dimensions: 152px x 152px"
+msgstr ""
+
+#: inc/customizer/setups/site-logo-favicon.php:62
+msgid "Favicon Image"
+msgstr ""
+
+#: inc/customizer/setups/site-logo-favicon.php:63
+msgid "File must be .png or .ico format. Optimal dimensions: 32px x 32px"
+msgstr ""
+
+#: inc/customizer/setups/header-general.php:23
+msgid "Sticky"
+msgstr ""
+
+#: inc/customizer/setups/header-general.php:24
+msgid "Enabling this option will sticky your header"
+msgstr ""
+
+#: inc/customizer/setups/header-general.php:45
+msgid "Enabling this option will display search button on header"
+msgstr ""
+
+#: inc/customizer/setups/color-footer.php:25
+msgid "Choose the background color for footer area"
+msgstr ""
+
+#: inc/customizer/setups/color-footer.php:43
+msgid "Choose the border color for footer area"
+msgstr ""
+
+#: inc/customizer/setups/color-footer.php:69
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/customizer/setups/color-footer.php:70
+msgid "Choose the text color for footer of your site"
+msgstr ""
+
+#: inc/customizer/setups/color-footer.php:96
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/customizer/setups/color-footer.php:97
+msgid "Choose the footer link color"
+msgstr ""
+
+#: inc/customizer/setups/color-footer.php:114
+msgid "Choose the footer link color on hover"
+msgstr ""
+
+#: inc/customizer/setups/color-footer.php:140
+msgid "Choose the background color for footer menu"
+msgstr ""
+
+#: inc/customizer/setups/color-footer.php:157
+#: inc/customizer/setups/color-copyright.php:59
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/setups/color-footer.php:158
+msgid "Choose the footer menu link color"
+msgstr ""
+
+#: inc/customizer/setups/color-footer.php:178
+msgid "Choose the footer menu link color on hover"
+msgstr ""
+
+#: inc/customizer/setups/custom-css.php:13
+msgid "Enable custom css"
+msgstr ""
+
+#: inc/customizer/setups/color-search.php:24
+msgid "Choose the color for search input"
+msgstr ""
+
+#: inc/customizer/setups/color-search.php:50
+msgid "Input Border bottom Color"
+msgstr ""
+
+#: inc/customizer/setups/color-search.php:51
+msgid "Choose the border bottom color for search input"
+msgstr ""
+
+#: inc/customizer/setups/color-search.php:68
+msgid "Choose the border bottom color for search input on focus"
+msgstr ""
+
+#: inc/customizer/setups/color-search.php:94
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer/setups/color-search.php:95
+msgid "Choose the color for search button"
+msgstr ""
+
+#: inc/customizer/setups/site-breadcrumb.php:14
+msgid "Turn On This Option If You Want To Enable Breadcrumb on your site"
+msgstr ""
+
+#: inc/customizer/setups/site-breadcrumb.php:40
+msgid "\"Home\" text"
+msgstr ""
+
+#: inc/customizer/setups/site-breadcrumb.php:41
+msgid "Change \"Home\" text on breadcrumb"
+msgstr ""
+
+#: inc/customizer/setups/site-breadcrumb.php:74
+msgid "\"You are here\" text"
+msgstr ""
+
+#: inc/customizer/setups/site-breadcrumb.php:75
+msgid "Change \"You are here\" text on breadcrumb"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:16
+msgid "Color settings for main menu"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:17
+msgid "Main Menu"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:24
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:25
+msgid "Background color for main menu"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:51
+#: inc/customizer/setups/color-nav.php:122
+msgid "Link settings"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:52
+#: inc/customizer/setups/color-nav.php:123
+#: inc/customizer/setups/color-site.php:217
+msgid "Link color"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:69
+#: inc/customizer/setups/color-nav.php:140
+#: inc/customizer/setups/color-site.php:238
+msgid "Link color on hover"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:88
+msgid "Color settings for sub menu"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:89
+msgid "Sub Menu"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:96
+msgid "Background color for sub menu"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:166
+#: inc/customizer/setups/color-nav.php:261
+msgid "Border color"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:167
+#: inc/customizer/setups/color-nav.php:262
+msgid "Border bottom & top color"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:188
+#: inc/customizer/setups/color-nav.php:287
+msgid "Border left & right color"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:211
+msgid "Color settings for menu on mobile"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:212
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:219
+msgid "Toogle button"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:220
+msgid "Normal color"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:236
+msgid "Active color"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:321
+#: inc/customizer/setups/color-nav.php:350
+msgid "Sub menu toggle button"
+msgstr ""
+
+#: inc/customizer/setups/color-nav.php:370
+msgid "Icon color"
+msgstr ""
+
+#: inc/customizer/setups/site-layout.php:22
+msgid "Site layout"
+msgstr ""
+
+#: inc/customizer/setups/site-layout.php:23
+#: inc/customizer/setups/site-layout.php:24
+msgid "Choose the site layout you want"
+msgstr ""
+
+#: inc/customizer/setups/site-layout.php:48
+msgid "Archive layout"
+msgstr ""
+
+#: inc/customizer/setups/site-layout.php:49
+#: inc/customizer/setups/site-layout.php:50
+msgid "Choose the archive layout you want"
+msgstr ""
+
+#: inc/customizer/setups/site-layout.php:74
+msgid "Search layout"
+msgstr ""
+
+#: inc/customizer/setups/site-layout.php:75
+#: inc/customizer/setups/site-layout.php:76
+msgid "Choose the search layout you want"
+msgstr ""
+
+#: inc/customizer/setups/site-layout.php:100
+msgid "Single Post layout"
+msgstr ""
+
+#: inc/customizer/setups/site-layout.php:101
+#: inc/customizer/setups/site-layout.php:102
+msgid "Choose the single post layout you want"
+msgstr ""
+
+#: inc/customizer/setups/page-heading.php:17
+msgid "Choose a style for page heading title"
+msgstr ""
+
+#: inc/customizer/setups/page-heading.php:18
+msgid "Heading style"
+msgstr ""
+
+#: inc/customizer/setups/page-heading.php:61
+msgid "Parallax effect"
+msgstr ""
+
+#: inc/customizer/setups/page-heading.php:62
+msgid ""
+"Turn on this option if you want to enable parallax effect for page heading"
+msgstr ""
+
+#: inc/customizer/setups/page-heading.php:133
+msgid "Setting padding for page heading title"
+msgstr ""
+
+#: inc/customizer/setups/page-heading.php:271
+msgid "Setting typography for page heading title"
+msgstr ""
+
+#: inc/customizer/setups/page-heading.php:363
+#: inc/customizer/setups/button-general.php:176
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/customizer/setups/custom-js.php:13
+msgid "Enable custom JS"
+msgstr ""
+
+#: inc/customizer/setups/color-social.php:40
+msgid "Social color on hover"
+msgstr ""
+
+#: inc/customizer/setups/button-general.php:15
+msgid "Setting padding for buttons"
+msgstr ""
+
+#: inc/customizer/setups/button-general.php:114
+msgid "Setting typography for buttons"
+msgstr ""
+
+#: inc/customizer/setups/color-page.php:25
+msgid "Choose the background color for main page area"
+msgstr ""
+
+#: inc/customizer/setups/post-single.php:23
+msgid "Enable Post Navigation"
+msgstr ""
+
+#: inc/customizer/setups/post-single.php:24
+msgid ""
+"Turn on this option if you want to display navigation to next/previous post "
+"when applicable."
+msgstr ""
+
+#: inc/customizer/setups/post-single.php:43
+msgid "Show Thumbnail"
+msgstr ""
+
+#: inc/customizer/setups/post-single.php:44
+msgid "Turn on this option if you want to display thumbnail image."
+msgstr ""
+
+#: inc/customizer/setups/color-header.php:25
+msgid "Choose the background color for header area"
+msgstr ""
+
+#: inc/customizer/setups/color-header.php:52
+msgid "Choose the color for header text"
+msgstr ""
+
+#: inc/customizer/setups/color-header.php:78
+msgid "Border Bottom Color"
+msgstr ""
+
+#: inc/customizer/setups/color-header.php:79
+msgid "Choose the border bottom color for header area"
+msgstr ""
+
+#: inc/customizer/setups/color-site.php:23
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/setups/color-site.php:107
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/setups/color-site.php:138
+msgid "Body background color"
+msgstr ""
+
+#: inc/customizer/setups/color-site.php:164
+msgid "Body text"
+msgstr ""
+
+#: inc/customizer/setups/color-site.php:190
+msgid "Heading text"
+msgstr ""
+
+#: inc/customizer/setups/color-site.php:216
+msgid "Body link"
+msgstr ""
+
+#: inc/customizer/setups/color-copyright.php:24
+msgid "Choose the background color for copyright"
+msgstr ""
+
+#: inc/customizer/setups/color-copyright.php:42
+msgid "Choose the text color"
+msgstr ""
+
+#: inc/customizer/setups/color-copyright.php:60
+msgid "Choose the color"
+msgstr ""
+
+#: inc/customizer/setups/color-copyright.php:77
+msgid "Choose the link color on hover"
+msgstr ""
+
+#: inc/customizer/setups/post-layout.php:50
+msgid "Post Align"
+msgstr ""
+
+#: inc/customizer/setups/post-layout.php:51
+msgid "Align a post in post grid"
+msgstr ""
+
+#: inc/customizer/setups/post-layout.php:55
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/setups/post-layout.php:56
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/setups/post-layout.php:57
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/setups/footer-general.php:23
+msgid "Uncovering"
+msgstr ""
+
+#: inc/customizer/setups/footer-general.php:24
+msgid "Enabling this option will make Footer gradually appear on scroll"
+msgstr ""
+
+#: inc/customizer/setups/footer-general.php:44
+msgid "Enabling this option will display copyright info"
+msgstr ""
+
+#: inc/customizer/setups/footer-general.php:54
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/setups/nav-layout.php:23
+msgid "Smart Mobile Menu"
+msgstr ""
+
+#: inc/customizer/setups/nav-layout.php:24
+msgid "Turn on this option to enable smart menu layout on mobile devices."
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:14
+msgid "Choose a page"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:24
+msgid "Skin"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:38
+msgid "Front page"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:47
+msgid "Other Settings"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:55
+msgid "Box Mode"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:56
+msgid "Turn on this option if you want to enable box mode on your site"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:74
+msgid "Smooth Scroll"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:75
+msgid ""
+"Enabling this option will perform a smooth scrolling effect on every page"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:94
+msgid "Back To Top"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:95
+msgid "Enabling this option will display a Back to Top button on every page"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:105
+msgid "Animated Page Transitions"
+msgstr ""
+
+#: inc/customizer/setups/site-general.php:106
+msgid "Enabling this option will turn on transition effect for your page"
+msgstr ""
+
+#: inc/customizer/setups/post-featured.php:23
+msgid "Enable Featured Posts"
+msgstr ""
+
+#: inc/customizer/setups/post-featured.php:24
+msgid "Turn on this option if you want to enable featured posts"
+msgstr ""
+
+#: inc/customizer/setups/post-featured.php:51
+msgid "Enter number of featured posts"
+msgstr ""
+
+#. Name of the theme
+msgid "Lily"
+msgstr ""
+
+#. Description of the theme
+msgid "Personal Blog Theme"
+msgstr ""
+
+#. URI of the theme
+msgid "http://lily.thememove.com"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeMove"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://thememove.com"
+msgstr ""

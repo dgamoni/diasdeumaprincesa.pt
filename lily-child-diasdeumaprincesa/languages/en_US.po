@@ -1,0 +1,3731 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lily 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2015-11-20 08:44+0700\n"
+"PO-Revision-Date: 2015-11-20 08:47+0700\n"
+"Last-Translator: \n"
+"Language-Team: ThemeMove <contact@thememove.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lily/404.php:26 ../twentyfifteen/404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../lily/comments.php:34 ../lily/comments.php:59
+#: ../twentyfifteen/inc/template-tags.php:23 ../twentyfourteen/comments.php:34
+#: ../twentyfourteen/comments.php:52 ../twentythirteen/comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: ../lily/comments.php:77 ../twentyfifteen/comments.php:53
+#: ../twentyfourteen/comments.php:59 ../twentythirteen/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: ../lily/comments.php:85
+msgid "Your name (required)"
+msgstr ""
+
+#: ../lily/comments.php:86
+msgid "Email (required)"
+msgstr ""
+
+#: ../lily/comments.php:90
+msgid "Submit"
+msgstr ""
+
+#: ../lily/comments.php:92
+msgid "Write a comment"
+msgstr ""
+
+#: ../lily/comments.php:97
+msgid "Your comment (required)"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:88
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:52
+#: ../lily/inc/customizer/setups/color-button.php:23
+#: ../lily/inc/customizer/setups/color-copyright.php:23
+#: ../lily/inc/customizer/setups/color-footer.php:24
+#: ../lily/inc/customizer/setups/color-footer.php:139
+#: ../lily/inc/customizer/setups/color-header.php:24
+#: ../lily/inc/customizer/setups/color-nav.php:322
+#: ../lily/inc/customizer/setups/color-nav.php:351
+#: ../lily/inc/customizer/setups/color-page.php:24
+#: ../lily/inc/customizer/setups/page-heading.php:79
+msgid "Background Color"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:89
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:53
+#: ../lily/inc/customizer/customizer.php:144
+#: ../lily/inc/customizer/setups/page-heading.php:38
+msgid "Background Image"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:90
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:54
+msgid "No Repeat"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:91
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:55
+msgid "Repeat All"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:92
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:56
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:93
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:57
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:94
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:58
+msgid "Inherit"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:95
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:59
+msgid "Background Repeat"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:96
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:60
+msgid "Cover"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:97
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:61
+msgid "Contain"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:98
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:62
+msgid "Background Size"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:99
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:63
+msgid "Fixed"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:100
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:64
+msgid "Scroll"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:101
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:65
+msgid "Background Attachment"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:102
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:66
+msgid "Left Top"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:103
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:67
+msgid "Left Center"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:104
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:68
+msgid "Left Bottom"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:105
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:69
+msgid "Right Top"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:106
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:70
+msgid "Right Center"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:107
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:71
+msgid "Right Bottom"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:108
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:72
+msgid "Center Top"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:109
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:73
+msgid "Center Center"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:110
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:74
+msgid "Center Bottom"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:111
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:75
+msgid "Background Position"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:112
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:76
+msgid "Background Opacity"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:113
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:77
+msgid "ON"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:114
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:78
+msgid "OFF"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:115
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:79
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:282
+msgid "All"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:116
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:80
+msgid "Cyrillic"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:117
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:81
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:118
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:82
+msgid "Devanagari"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:119
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:83
+msgid "Greek"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:120
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:84
+msgid "Greek Extended"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:121
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:85
+msgid "Khmer"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:122
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:86
+msgid "Latin"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:123
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:87
+msgid "Latin Extended"
+msgstr ""
+
+#: ../lily/core/customizer/kirki/includes/class-kirki-config.php:124
+#: ../lily/core/customizer/kirki/includes/class-kirki-toolkit.php:88
+msgid "Vietnamese"
+msgstr ""
+
+#: ../lily/core/welcome.php:9
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: ../lily/core/welcome.php:11
+#, php-format
+msgid ""
+"Thank you for purchased the latest version! %s is powerful, stable and "
+"secure. We hope you enjoy using it."
+msgstr ""
+
+#: ../lily/core/welcome.php:13
+msgid "Best Features"
+msgstr ""
+
+#: ../lily/core/welcome.php:17
+msgid "Live preview with Customizer"
+msgstr ""
+
+#: ../lily/core/welcome.php:18
+msgid ""
+"You can use the Customizer to modify Appearance settings in a live preview. "
+"To access the Customizer for your current theme, you can go to ThemeMove >> "
+"Customize in your dashboard."
+msgstr ""
+
+#: ../lily/core/welcome.php:22
+msgid "One click update"
+msgstr ""
+
+#: ../lily/core/welcome.php:23
+msgid ""
+"You can launch the update by clicking the link in the new version banner (if "
+"it's there) or by going to the Dashboard > Updates screen. Once you are on "
+"the \"Update WordPress\" page, click the button \"Update Now\" to start the "
+"process off. You shouldn't need to do anything else and, once it's finished, "
+"you will be up-to-date."
+msgstr ""
+
+#: ../lily/core/welcome.php:26
+msgid "One click demo setup"
+msgstr ""
+
+#: ../lily/core/welcome.php:27
+msgid ""
+"Start your website with carbon copy of our demo, surly it will make a "
+"difference."
+msgstr ""
+
+#: ../lily/footer.php:56
+msgid "Go to top"
+msgstr ""
+
+#: ../lily/functions.php:151
+msgid "Language Widget Area"
+msgstr ""
+
+#: ../lily/functions.php:366
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:287
+msgid "Quote"
+msgstr ""
+
+#: ../lily/functions.php:387
+msgid "Gallery Type"
+msgstr ""
+
+#: ../lily/functions.php:390 ../twentyfourteen/inc/customizer.php:61
+msgid "Slider"
+msgstr ""
+
+#: ../lily/functions.php:393
+msgid "Masonry"
+msgstr ""
+
+#: ../lily/header.php:100 ../twentythirteen/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: ../lily/header.php:101 ../twentyfifteen/header.php:26
+#: ../twentyfourteen/header.php:53 ../twentythirteen/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../lily/inc/back-compat.php:38 ../lily/inc/back-compat.php:48
+#: ../lily/inc/back-compat.php:62
+#, php-format
+msgid ""
+"ThemeMove requires at least WordPress version 3.9. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:19
+msgid ""
+"The Customizer allows you to preview changes to your site before publishing "
+"them. You can also navigate to different pages on your site to preview them."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:46
+#: ../lily/inc/customizer/customizer.php:248
+msgid "Site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:47
+msgid "In this section you can control all settings of your site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:52
+#: ../lily/inc/customizer/customizer.php:255
+msgid "Header"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:53
+#: ../lily/inc/customizer/customizer.php:175
+msgid "In this section you can control all header settings of your site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:58
+#: ../lily/inc/customizer/customizer.php:262 ../twentyfifteen/archive.php:51
+#: ../twentyfifteen/content-link.php:40 ../twentyfifteen/content-page.php:29
+#: ../twentyfifteen/content.php:42 ../twentyfifteen/image.php:63
+#: ../twentyfifteen/index.php:48 ../twentyfifteen/search.php:40
+msgid "Page"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:59
+msgid ""
+"In this section you can control all menu settings of your main page content"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:64
+msgid "Post & Archive"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:65
+msgid "In this section you can control all menu settings of posts"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:70
+#: ../lily/inc/customizer/customizer.php:269
+msgid "Footer"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:71
+msgid "Scroll to bottom of page to see the change"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:76
+#: ../lily/inc/customizer/customizer.php:290
+msgid "Navigation"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:77
+msgid "In this section you can control all menu settings of your site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:82
+#: ../lily/inc/customizer/customizer.php:297
+msgid "Button"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:83
+msgid "In this section you can control all button settings of your site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:88
+#: ../lily/inc/customizer/setups/color-search.php:23
+#: ../lily/inc/customizer/setups/color-social.php:23
+msgid "Color"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:89
+#: ../lily/inc/customizer/customizer.php:249
+msgid "In this section you can control all color settings of your site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:94
+msgid "Custom code"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:95
+msgid "In this section you can add custom JavaScript and CSS to your site."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:103
+#: ../lily/inc/customizer/customizer.php:164
+#: ../lily/inc/customizer/customizer.php:174
+#: ../lily/inc/customizer/customizer.php:185
+#: ../lily/inc/customizer/customizer.php:203
+#: ../lily/inc/customizer/customizer.php:237
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:36
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:44
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:54
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:61
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:74
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:82
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:193
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:202
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:210
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:227
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:234
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:242
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:250
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:258
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:266
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:274
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:179
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:197
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:205
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:292
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:312
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:320
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:336
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:358
+msgid "General"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:104
+#: ../lily/inc/customizer/customizer.php:322
+#: ../lily/inc/customizer/customizer.php:328
+msgid "In this section you can control all general settings of your site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:110
+#: ../lily/inc/customizer/customizer.php:117
+#: ../twentyfourteen/inc/customizer.php:56
+msgid "Layout"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:111
+msgid "In this section you can change layout for page of your site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:118
+msgid "In this section you can control layout for pages of your site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:124
+msgid "Logo & Favicon"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:125
+msgid "In this section you can control logo, favicon of your site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:131
+#: ../lily/inc/customizer/setups/site-breadcrumb.php:13
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:137
+#: ../lily/inc/customizer/setups/button-general.php:115
+#: ../lily/inc/customizer/setups/page-heading.php:272
+msgid "Typography"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:138
+msgid "In this section you can control all typography settings of your site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:145
+msgid "In this section you can change background image of the site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:154
+msgid "Setup"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:155
+msgid ""
+"Select which menu you would like to use. You can edit your menu content on "
+"the Menus screen in the Appearance section"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:186
+msgid ""
+"In this section you can control all general settings for main page content"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:192
+msgid "Heading Title"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:193
+msgid "In this section you can control page heading"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:204
+msgid "In this section you can control all general settings for posts"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:210
+msgid "Single Post"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:211
+msgid ""
+"In this section you can control all general settings for single post page"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:217
+msgid "Post Grid Layout"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:218
+msgid "In this section you can set up layout for posts grid in archive page"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:225
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:378
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:389
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:409
+msgid "Featured Posts"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:226
+msgid ""
+"In this section you can control all settings for featured posts in archive "
+"page."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:238
+msgid "In this section you can control all footer settings of your site"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:256
+msgid "In this section you can control all color settings of header."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:263
+msgid ""
+"In this section you can control all color settings of main page content."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:270
+msgid "In this section you can control all color settings of footer."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:276
+msgid "Social Icons"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:277
+msgid "In this section you can control all color settings of social icons."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:283
+#: ../lily/inc/customizer/setups/header-general.php:44
+#: ../twentyfourteen/header.php:48
+msgid "Search"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:284
+msgid "In this section you can control all color settings of search."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:291
+msgid "In this section you can control all color settings of navigation."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:298
+msgid "In this section you can control all color settings of button."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:304
+msgid "Main Content"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:305
+msgid "In this section you can control all color settings of content section."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:311
+#: ../lily/inc/customizer/setups/footer-general.php:36
+msgid "Copyright"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:312
+msgid "In this section you can control all color settings of copyright."
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:321
+#: ../lily/inc/customizer/setups/custom-css.php:23
+msgid "Custom CSS"
+msgstr ""
+
+#: ../lily/inc/customizer/customizer.php:327
+#: ../lily/inc/customizer/setups/custom-js.php:23
+msgid "Custom JS"
+msgstr ""
+
+#: ../lily/inc/customizer/io.php:12 ../lily/inc/customizer/io.php:17
+msgid "Export"
+msgstr ""
+
+#: ../lily/inc/customizer/io.php:15
+msgid ""
+"Click the button below to export the customization settings for this theme."
+msgstr ""
+
+#: ../lily/inc/customizer/io.php:19 ../lily/inc/customizer/io.php:24
+msgid "Import"
+msgstr ""
+
+#: ../lily/inc/customizer/io.php:22
+msgid "Upload a file to import customization settings for this theme."
+msgstr ""
+
+#: ../lily/inc/customizer/setups/button-general.php:15
+msgid "Setting padding for buttons"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/button-general.php:16
+#: ../lily/inc/customizer/setups/button-general.php:23
+#: ../lily/inc/customizer/setups/page-general.php:23
+#: ../lily/inc/customizer/setups/page-heading.php:134
+#: ../lily/inc/customizer/setups/page-heading.php:148
+msgid "Padding"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/button-general.php:24
+#: ../lily/inc/customizer/setups/page-general.php:24
+#: ../lily/inc/customizer/setups/page-heading.php:149
+msgid "Padding Top"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/button-general.php:46
+#: ../lily/inc/customizer/setups/page-general.php:47
+#: ../lily/inc/customizer/setups/page-heading.php:179
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/button-general.php:68
+#: ../lily/inc/customizer/setups/page-general.php:70
+#: ../lily/inc/customizer/setups/page-heading.php:209
+msgid "Padding Left"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/button-general.php:90
+#: ../lily/inc/customizer/setups/page-general.php:93
+#: ../lily/inc/customizer/setups/page-heading.php:239
+msgid "Padding Right"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/button-general.php:114
+msgid "Setting typography for buttons"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/button-general.php:122
+#: ../lily/inc/customizer/setups/page-heading.php:286
+#: ../lily/inc/customizer/setups/site-typo.php:23
+#: ../lily/inc/customizer/setups/site-typo.php:89
+msgid "Font Family"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/button-general.php:137
+#: ../lily/inc/customizer/setups/page-heading.php:308
+#: ../lily/inc/customizer/setups/site-typo.php:38
+#: ../lily/inc/customizer/setups/site-typo.php:106
+msgid "Font Weight"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/button-general.php:156
+#: ../lily/inc/customizer/setups/page-heading.php:335
+#: ../lily/inc/customizer/setups/site-typo.php:58
+msgid "Font Size"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/button-general.php:176
+#: ../lily/inc/customizer/setups/page-heading.php:363
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-button.php:39
+msgid "Background color on hover"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-button.php:65
+#: ../lily/inc/customizer/setups/color-footer.php:42
+msgid "Border Color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-button.php:81
+msgid "Border color on hover"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-button.php:107
+#: ../lily/inc/customizer/setups/color-copyright.php:41
+#: ../lily/inc/customizer/setups/color-header.php:51
+#: ../lily/inc/customizer/setups/page-heading.php:113
+msgid "Text Color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-button.php:124
+msgid "Text color on hover"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-copyright.php:24
+msgid "Choose the background color for copyright"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-copyright.php:42
+msgid "Choose the text color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-copyright.php:59
+#: ../lily/inc/customizer/setups/color-footer.php:157
+msgid "Link Color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-copyright.php:60
+msgid "Choose the color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-copyright.php:77
+msgid "Choose the link color on hover"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-footer.php:25
+msgid "Choose the background color for footer area"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-footer.php:43
+msgid "Choose the border color for footer area"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-footer.php:69
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-footer.php:70
+msgid "Choose the text color for footer of your site"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-footer.php:96
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-footer.php:97
+msgid "Choose the footer link color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-footer.php:114
+msgid "Choose the footer link color on hover"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-footer.php:140
+msgid "Choose the background color for footer menu"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-footer.php:158
+msgid "Choose the footer menu link color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-footer.php:178
+msgid "Choose the footer menu link color on hover"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-header.php:25
+msgid "Choose the background color for header area"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-header.php:52
+msgid "Choose the color for header text"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-header.php:78
+msgid "Border Bottom Color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-header.php:79
+msgid "Choose the border bottom color for header area"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:16
+msgid "Color settings for main menu"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:17
+msgid "Main Menu"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:24
+msgid "Background"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:25
+msgid "Background color for main menu"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:51
+#: ../lily/inc/customizer/setups/color-nav.php:122
+msgid "Link settings"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:52
+#: ../lily/inc/customizer/setups/color-nav.php:123
+#: ../lily/inc/customizer/setups/color-site.php:217
+msgid "Link color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:69
+#: ../lily/inc/customizer/setups/color-nav.php:140
+#: ../lily/inc/customizer/setups/color-site.php:238
+msgid "Link color on hover"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:88
+msgid "Color settings for sub menu"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:89
+msgid "Sub Menu"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:96
+msgid "Background color for sub menu"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:166
+#: ../lily/inc/customizer/setups/color-nav.php:261
+msgid "Border color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:167
+#: ../lily/inc/customizer/setups/color-nav.php:262
+msgid "Border bottom & top color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:188
+#: ../lily/inc/customizer/setups/color-nav.php:287
+msgid "Border left & right color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:211
+msgid "Color settings for menu on mobile"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:212
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:219
+msgid "Toogle button"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:220
+msgid "Normal color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:236
+msgid "Active color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:321
+#: ../lily/inc/customizer/setups/color-nav.php:350
+msgid "Sub menu toggle button"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-nav.php:370
+msgid "Icon color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-page.php:25
+msgid "Choose the background color for main page area"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-search.php:24
+msgid "Choose the color for search input"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-search.php:50
+msgid "Input Border bottom Color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-search.php:51
+msgid "Choose the border bottom color for search input"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-search.php:68
+msgid "Choose the border bottom color for search input on focus"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-search.php:94
+msgid "Button Color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-search.php:95
+msgid "Choose the color for search button"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-site.php:23
+msgid "Primary Color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-site.php:107
+msgid "Secondary Color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-site.php:138
+msgid "Body background color"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-site.php:164
+msgid "Body text"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-site.php:190
+msgid "Heading text"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-site.php:216
+msgid "Body link"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/color-social.php:40
+msgid "Social color on hover"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/custom-css.php:13
+msgid "Enable custom css"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/custom-js.php:13
+msgid "Enable custom JS"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/footer-general.php:23
+msgid "Uncovering"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/footer-general.php:24
+msgid "Enabling this option will make Footer gradually appear on scroll"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/footer-general.php:44
+msgid "Enabling this option will display copyright info"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/footer-general.php:54
+msgid "Copyright Text"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/header-general.php:23
+#: ../twentyfourteen/inc/template-tags.php:109
+msgid "Sticky"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/header-general.php:24
+msgid "Enabling this option will sticky your header"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/header-general.php:45
+msgid "Enabling this option will display search button on header"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/nav-layout.php:23
+msgid "Smart Mobile Menu"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/nav-layout.php:24
+msgid "Turn on this option to enable smart menu layout on mobile devices."
+msgstr ""
+
+#: ../lily/inc/customizer/setups/page-heading.php:17
+msgid "Choose a style for page heading title"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/page-heading.php:18
+msgid "Heading style"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/page-heading.php:29
+#: ../lily/inc/meta-box.php:116 ../lily/inc/meta-box.php:122
+msgid "Image Background"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/page-heading.php:30
+#: ../lily/inc/meta-box.php:117
+msgid "Single Color Background"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/page-heading.php:61
+msgid "Parallax effect"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/page-heading.php:62
+msgid ""
+"Turn on this option if you want to enable parallax effect for page heading"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/page-heading.php:133
+msgid "Setting padding for page heading title"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/page-heading.php:271
+msgid "Setting typography for page heading title"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-featured.php:23
+msgid "Enable Featured Posts"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-featured.php:24
+msgid "Turn on this option if you want to enable featured posts"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-featured.php:50
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:380
+msgid "Number of featured posts"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-featured.php:51
+msgid "Enter number of featured posts"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-featured.php:89
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:391
+msgid "Number of featured posts in a row"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-featured.php:91
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:326
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:396
+msgid "12 posts"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-featured.php:92
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:327
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:397
+msgid "6  posts"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-featured.php:93
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:328
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:398
+msgid "4  posts"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-featured.php:94
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:329
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:399
+msgid "3  posts"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-featured.php:95
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:330
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:400
+msgid "2  posts"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-featured.php:96
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:331
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:401
+msgid "1  posts"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-featured.php:135
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:411
+msgid "Show Featured posts after how many posts?"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:25
+msgid "Display Full Post"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:26
+msgid ""
+"Turn on this option if you want to display full post, turn off if you want "
+"to display the excerpt. The excerpt will NOT cut off mid-sentence."
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:36
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:37
+msgid "Max excerpt length. Length is set in characters."
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:63
+msgid "Post Title Position"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:64
+msgid ""
+"Turn on this option if you want to display the post title above the featured "
+"image, otherwise, turn off it."
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:83
+msgid "Hide related posts"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:84
+msgid ""
+"Turn on this option if you want to hide related posts section when display a "
+"post"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:102
+msgid "Hide author info box"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:103
+msgid ""
+"Turn on this option if you want to hide the author info box section when "
+"display a post"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:122
+msgid "Hide Category"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:123
+msgid "Turn on this option if you want to hide category when display a post"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:142
+msgid "Hide Date"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:143
+msgid "Turn on this option if you want to hide date when display a post"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:162
+msgid "Hide Tags"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:163
+msgid "Turn on this option if you want to hide tags when display a post"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:182
+msgid "Hide Share Buttons"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:183
+msgid ""
+"Turn on this option if you want to hide share buttons when display a post"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:202
+msgid "Hide 'Continue Reading' Button"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:203
+msgid ""
+"Turn on this option if you want to hide read more button when display a post"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:222
+msgid "Hide Comment Link"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:223
+msgid ""
+"Turn on this option if you want to hide comment link when display a post"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:242
+msgid "Hide Featured Image"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-general.php:243
+msgid ""
+"Turn on this option if you want to hide featured image when display a post"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-layout.php:26
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:186
+msgid "Full Post Layout"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-layout.php:27
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:187
+msgid "Grid Post Layout"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-layout.php:28
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:188
+msgid "1st Full Post then Grid Layout"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-layout.php:29
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:189
+msgid "List Post Layout"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-layout.php:30
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:190
+msgid "1st Full Post then List Layout"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-layout.php:31
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:191
+msgid "Masonry Post Layout"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-layout.php:32
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:192
+msgid "1st Full Post then Masonry Layout"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-layout.php:50
+msgid "Post Align"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-layout.php:51
+msgid "Align a post in post grid"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-layout.php:55
+msgid "Left"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-layout.php:56
+msgid "Center"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-layout.php:57
+msgid "Right"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-single.php:23
+msgid "Enable Post Navigation"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-single.php:24
+msgid ""
+"Turn on this option if you want to display navigation to next/previous post "
+"when applicable."
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-single.php:43
+msgid "Show Thumbnail"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/post-single.php:44
+msgid "Turn on this option if you want to display thumbnail image."
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-breadcrumb.php:14
+msgid "Turn On This Option If You Want To Enable Breadcrumb on your site"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-breadcrumb.php:40
+msgid "\"Home\" text"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-breadcrumb.php:41
+msgid "Change \"Home\" text on breadcrumb"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-breadcrumb.php:74
+msgid "\"You are here\" text"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-breadcrumb.php:75
+msgid "Change \"You are here\" text on breadcrumb"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-general.php:14
+msgid "Choose a page"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-general.php:24
+msgid "Skin"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-general.php:38
+msgid "Front page"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-general.php:47
+msgid "Other Settings"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-general.php:55
+msgid "Box Mode"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-general.php:56
+msgid "Turn on this option if you want to enable box mode on your site"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-general.php:74
+msgid "Smooth Scroll"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-general.php:75
+msgid ""
+"Enabling this option will perform a smooth scrolling effect on every page"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-general.php:94
+msgid "Back To Top"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-general.php:95
+msgid "Enabling this option will display a Back to Top button on every page"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-general.php:105
+msgid "Animated Page Transitions"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-general.php:106
+msgid "Enabling this option will turn on transition effect for your page"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-layout.php:22
+msgid "Site layout"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-layout.php:23
+#: ../lily/inc/customizer/setups/site-layout.php:24
+msgid "Choose the site layout you want"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-layout.php:48
+msgid "Archive layout"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-layout.php:49
+#: ../lily/inc/customizer/setups/site-layout.php:50
+msgid "Choose the archive layout you want"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-layout.php:74
+msgid "Search layout"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-layout.php:75
+#: ../lily/inc/customizer/setups/site-layout.php:76
+msgid "Choose the search layout you want"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-layout.php:100
+msgid "Single Post layout"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-layout.php:101
+#: ../lily/inc/customizer/setups/site-layout.php:102
+msgid "Choose the single post layout you want"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-logo-favicon.php:22
+msgid "Logo Image"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-logo-favicon.php:23
+msgid "Choose a default logo image to display"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-logo-favicon.php:42
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-logo-favicon.php:43
+msgid "File must be .png format. Optimal dimensions: 152px x 152px"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-logo-favicon.php:62
+msgid "Favicon Image"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-logo-favicon.php:63
+msgid "File must be .png or .ico format. Optimal dimensions: 32px x 32px"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-typo.php:15
+msgid "Settings for body font"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-typo.php:81
+msgid "Settings for heading font"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-typo.php:135
+msgid "H1 Font Size"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-typo.php:165
+msgid "H2 Font Size"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-typo.php:195
+msgid "H3 Font Size"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-typo.php:225
+msgid "H4 Font Size"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-typo.php:255
+msgid "H5 Font Size"
+msgstr ""
+
+#: ../lily/inc/customizer/setups/site-typo.php:285
+msgid "H6 Font Size"
+msgstr ""
+
+#: ../lily/inc/extras.php:163
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../lily/inc/extras.php:167
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: ../lily/inc/extras.php:168
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../lily/inc/extras.php:169
+msgid "(Edit)"
+msgstr ""
+
+#: ../lily/inc/extras.php:303
+msgid "items"
+msgstr ""
+
+#: ../lily/inc/extras.php:303
+msgid "item"
+msgstr ""
+
+#: ../lily/inc/extras.php:303
+msgid "in cart"
+msgstr ""
+
+#: ../lily/inc/extras.php:304
+msgid "Check out"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:49
+msgid "Page Settings"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:59
+msgid "Sticky Header"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:60
+msgid "Custom settings for sticky header"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:64 ../lily/inc/meta-box.php:76
+#: ../lily/inc/meta-box.php:95 ../lily/inc/meta-box.php:115
+#: ../twentyfifteen/inc/customizer.php:92
+msgid "Default"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:65 ../lily/inc/meta-box.php:77
+msgid "Enable"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:66 ../lily/inc/meta-box.php:78
+msgid "Disable"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:71
+msgid "Uncover Footer"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:72
+msgid "Custom settings for uncover footer option"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:83
+msgid "Custom Logo"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:84
+msgid "Upload an image or enter a URL for logo"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:90
+msgid "Page Layout"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:91
+msgid "Choose a layout you want"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:96
+msgid "Full width"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:97
+msgid "Content-Sidebar"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:98
+msgid "Sidebar-Content"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:103
+msgid "Disable Title"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:104
+msgid "Check this box to disable the title of the page"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:110
+msgid "Title Style"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:111
+msgid "Choose style for the title of the page"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:123
+msgid "Upload an image or enter a URL for heading title"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:129
+msgid "Disable Parallax"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:130
+msgid "Check this box to disable parallax effect for heading title"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:136
+msgid "Title Background Color"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:137
+msgid "Pick a background color for heading title"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:144
+msgid "Title Color"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:145
+msgid "Pick a color for heading title"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:152
+msgid "Alternative Title"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:153
+msgid "Enter your alternative title here"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:159
+msgid "Custom Class"
+msgstr ""
+
+#: ../lily/inc/meta-box.php:160
+msgid "Enter custom class for this page"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:46 ../lily/inc/template-tags.php:78
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:159
+msgid "Newer Posts"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:47
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:160
+msgid "Older  Posts"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:74 ../twentyfourteen/inc/template-tags.php:58
+#: ../twentythirteen/functions.php:266
+msgid "Posts navigation"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:77
+msgid "Older Posts"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:102
+#: ../twentyfourteen/inc/template-tags.php:85
+#: ../twentythirteen/functions.php:300
+msgid "Post navigation"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:145
+msgid "Related Posts"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:281
+#, php-format
+msgid "Category / <span> %s </span>"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:283
+#, php-format
+msgid "Tag / <span> %s </span>"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:285
+#, php-format
+msgid "Author / <span> %s </span>"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:287
+#, php-format
+msgid "Year : <span> %s </span>"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:289
+#, php-format
+msgid "Month : <span> %s </span>"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:291
+#, php-format
+msgid "Day : <span> %s </span>"
+msgstr ""
+
+#: ../lily/inc/template-tags.php:317
+#, php-format
+msgid "%1$s / <span>%2$s</span>"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:336
+#: ../lily/inc/tmg-plugin-registration.php:95
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:337
+#: ../lily/inc/tmg-plugin-registration.php:96
+msgid "Install Plugins"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:338
+#: ../lily/inc/tmg-plugin-registration.php:97
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:339
+#: ../lily/inc/tmg-plugin-registration.php:99
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:352
+#: ../lily/inc/tmg-plugin-registration.php:121
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:353
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:354
+#: ../lily/inc/tmg-plugin-activation.php:2933
+#: ../lily/inc/tmg-plugin-registration.php:122
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:355
+#: ../lily/inc/tmg-plugin-registration.php:123
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:356
+#: ../lily/inc/tmg-plugin-registration.php:124
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:357
+#: ../lily/inc/tmg-plugin-registration.php:126
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:358
+#: ../lily/inc/tmg-plugin-registration.php:128
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:359
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:360
+#: ../lily/inc/tmg-plugin-registration.php:130
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2110
+msgid "Required"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2113
+msgid "Recommended"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2130
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2133
+msgid "External Source"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2136
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2154
+msgid "Not Installed"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2158
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2160
+msgid "Active"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2166
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2169
+msgid "Requires Update"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2172
+msgid "Update recommended"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2310
+msgid "Installed version:"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2314
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2323
+msgid "Available version:"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2343
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2357
+msgid "Plugin"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2358
+msgid "Source"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2359
+msgid "Type"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2363
+msgid "Version"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2364
+msgid "Status"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2514
+msgid "Install"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2520
+msgid "Update"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2523
+msgid "Activate"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2554
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2556
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2592
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2594
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:2932
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:3271
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:3273
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:3274
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:3278
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:3279
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:3280
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:3281
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:3284
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:3286
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../lily/inc/tmg-plugin-activation.php:3287
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lily/inc/variables.php:16
+msgid "Color Scheme 01"
+msgstr ""
+
+#: ../lily/inc/variables.php:139
+msgid ""
+"Made with <a target=\"_blank\" href=\"http://thememove.com\"><i class=\"fa "
+"fa-heart\"></i></a> by ThemeMove.com. All rights Reserved."
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-responsive/thememove_responsive.php:39
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:218
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:299
+#: ../lily/inc/widget/thememove_instagram_widget.php:44
+msgid "1 columns - 1/1 - 12 items in a row"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-responsive/thememove_responsive.php:40
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:219
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:300
+#: ../lily/inc/widget/thememove_instagram_widget.php:45
+msgid "2 columns - 1/6 - 6 items in a row"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-responsive/thememove_responsive.php:41
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:220
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:301
+#: ../lily/inc/widget/thememove_instagram_widget.php:46
+msgid "3 columns - 1/4 - 4 items in a row"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-responsive/thememove_responsive.php:42
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:221
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:302
+#: ../lily/inc/widget/thememove_instagram_widget.php:47
+msgid "4 columns - 1/3 - 3 items in a row"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-responsive/thememove_responsive.php:43
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:222
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:303
+#: ../lily/inc/widget/thememove_instagram_widget.php:48
+msgid "6 columns - 1/2 - 2 items in a row"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-responsive/thememove_responsive.php:44
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:223
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:304
+#: ../lily/inc/widget/thememove_instagram_widget.php:49
+msgid "12 columns - 1/1 - 1 item in a row"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-responsive/thememove_responsive.php:61
+#: ../lily/inc/widget/thememove_instagram_widget.php:290
+msgid "Default value from \"Number of items in a row\" attribute"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-responsive/thememove_responsive.php:64
+#: ../lily/inc/widget/thememove_instagram_widget.php:293
+msgid "Inherit from smaller"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-responsive/thememove_responsive.php:86
+#: ../lily/inc/widget/thememove_instagram_widget.php:257
+msgid "Device"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-responsive/thememove_responsive.php:87
+#: ../lily/inc/widget/thememove_instagram_widget.php:258
+msgid "Item width"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-responsive/thememove_responsive.php:88
+#: ../lily/inc/widget/thememove_instagram_widget.php:259
+msgid "Hide on device?"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:26
+#: ../lily/inc/widget/thememove_aboutme_widget.php:51
+msgid "Amazon"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:27
+#: ../lily/inc/widget/thememove_aboutme_widget.php:52
+msgid "500px"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:28
+#: ../lily/inc/widget/thememove_aboutme_widget.php:53
+msgid "Behance"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:29
+#: ../lily/inc/widget/thememove_aboutme_widget.php:54
+msgid "Bitbucket"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:30
+#: ../lily/inc/widget/thememove_aboutme_widget.php:55
+msgid "Codepen"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:31
+#: ../lily/inc/widget/thememove_aboutme_widget.php:56
+msgid "Dashcube"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:32
+#: ../lily/inc/widget/thememove_aboutme_widget.php:57
+msgid "Delicious"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:33
+#: ../lily/inc/widget/thememove_aboutme_widget.php:58
+msgid "DeviantArt"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:34
+#: ../lily/inc/widget/thememove_aboutme_widget.php:59
+msgid "Digg"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:35
+#: ../lily/inc/widget/thememove_aboutme_widget.php:60
+msgid "Dribbble"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:36
+#: ../lily/inc/widget/thememove_aboutme_widget.php:61
+msgid "Facebook"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:37
+#: ../lily/inc/widget/thememove_aboutme_widget.php:62
+msgid "Flickr"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:38
+#: ../lily/inc/widget/thememove_aboutme_widget.php:63
+msgid "Foursquare"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:39
+#: ../lily/inc/widget/thememove_aboutme_widget.php:64
+msgid "Github"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:40
+#: ../lily/inc/widget/thememove_aboutme_widget.php:65
+msgid "Google+"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:41
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:187
+#: ../lily/inc/widget/thememove_aboutme_widget.php:66
+msgid "Instagram"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:42
+#: ../lily/inc/widget/thememove_aboutme_widget.php:67
+msgid "Linkedin"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:43
+#: ../lily/inc/widget/thememove_aboutme_widget.php:68
+msgid "Odnoklassniki"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:44
+#: ../lily/inc/widget/thememove_aboutme_widget.php:69
+msgid "Pinterest"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:45
+#: ../lily/inc/widget/thememove_aboutme_widget.php:70
+msgid "QQ"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:46
+#: ../lily/inc/widget/thememove_aboutme_widget.php:71
+msgid "RSS"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:47
+#: ../lily/inc/widget/thememove_aboutme_widget.php:72
+msgid "Reddit"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:48
+#: ../lily/inc/widget/thememove_aboutme_widget.php:73
+msgid "Skype"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:49
+#: ../lily/inc/widget/thememove_aboutme_widget.php:74
+msgid "Slack"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:50
+#: ../lily/inc/widget/thememove_aboutme_widget.php:75
+msgid "Soundcloud"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:51
+#: ../lily/inc/widget/thememove_aboutme_widget.php:76
+msgid "StumbleUpon"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:52
+#: ../lily/inc/widget/thememove_aboutme_widget.php:77
+msgid "Tripadvisor"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:53
+#: ../lily/inc/widget/thememove_aboutme_widget.php:78
+msgid "Tumblr"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:54
+#: ../lily/inc/widget/thememove_aboutme_widget.php:79
+msgid "Twitch"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:55
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:125
+#: ../lily/inc/widget/thememove_aboutme_widget.php:80
+msgid "Twitter"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:56
+#: ../lily/inc/widget/thememove_aboutme_widget.php:81
+msgid "Vine"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:57
+#: ../lily/inc/widget/thememove_aboutme_widget.php:82
+msgid "Weibo"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:58
+#: ../lily/inc/widget/thememove_aboutme_widget.php:83
+msgid "Wikipedia"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:59
+#: ../lily/inc/widget/thememove_aboutme_widget.php:84
+msgid "WhatsApp"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:60
+#: ../lily/inc/widget/thememove_aboutme_widget.php:85
+msgid "Wordpress"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:61
+#: ../lily/inc/widget/thememove_aboutme_widget.php:86
+msgid "Yahoo"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:62
+#: ../lily/inc/widget/thememove_aboutme_widget.php:87
+msgid "Youtube"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:107
+#: ../lily/inc/widget/thememove_aboutme_widget.php:213
+msgid "Social Network"
+msgstr ""
+
+#: ../lily/inc/vc-params/thememove-social-links/thememove_social_links.php:108
+#: ../lily/inc/widget/thememove_aboutme_widget.php:214
+msgid "Link"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:30
+msgid "About me"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:32
+msgid "Display your information"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:33
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:18
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:26
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:190
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:176
+#: ../lily/inc/vc-shortcode/thememove-recentposts.php:34
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:17
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:128
+msgid "by THEMEMOVE"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:38
+msgid "Avatar Image"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:41
+#: ../lily/inc/widget/thememove_aboutme_widget.php:182
+msgid "Select images from media library."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:46
+msgid "Image shape"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:56
+#: ../lily/inc/widget/thememove_aboutme_widget.php:191
+msgid "Description"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:63
+#: ../lily/inc/widget/thememove_aboutme_widget.php:195
+msgid "Icon background shape"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:64
+#: ../lily/inc/widget/thememove_aboutme_widget.php:203
+msgid "Select background shape and style for icon"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:78
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:262
+#: ../lily/inc/widget/thememove_aboutme_widget.php:206
+msgid "Open links in new page"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:84
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:123
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:276
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:338
+#: ../lily/inc/vc-shortcode/thememove-recentposts.php:71
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:119
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:207
+msgid "Extra class name"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:86
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:278
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:340
+#: ../lily/inc/vc-shortcode/thememove-recentposts.php:73
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:121
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:209
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:89
+msgid "Social"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:91
+#: ../lily/inc/widget/thememove_aboutme_widget.php:209
+msgid "Social links"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-aboutme.php:93
+msgid "Enter your social links."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:15
+msgid "Facebook Page Like"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:17
+#: ../lily/inc/widget/thememove_facebook_widget.php:19
+msgid "Facebook Page \"Like\" button"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:22
+#: ../lily/inc/widget/thememove_facebook_widget.php:83
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:23
+msgid ""
+"Enter your facebook page URL, example: https://www.facebook.com/thememove"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:28
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:57
+#: ../lily/inc/widget/thememove_facebook_widget.php:88
+msgid "Width"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:29
+#: ../lily/inc/widget/thememove_facebook_widget.php:92
+msgid "The pixel width of the embed (Min. 180 to Max. 500)"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:34
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:50
+#: ../lily/inc/widget/thememove_facebook_widget.php:94
+msgid "Height"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:35
+#: ../lily/inc/widget/thememove_facebook_widget.php:98
+msgid "The pixel height of the embed (Min. 70)"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:42
+#: ../lily/inc/widget/thememove_facebook_widget.php:101
+msgid "Use Small Header"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:44
+#: ../lily/inc/widget/thememove_facebook_widget.php:103
+msgid "Uses a smaller version of the page header"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:50
+#: ../lily/inc/widget/thememove_facebook_widget.php:106
+msgid "Adapt to shortcode container width"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:52
+#: ../lily/inc/widget/thememove_facebook_widget.php:108
+msgid "Shortcode will try to fit inside the container"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:57
+#: ../lily/inc/widget/thememove_facebook_widget.php:111
+msgid "Hide cover photo"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:60
+#: ../lily/inc/widget/thememove_facebook_widget.php:113
+msgid "Hide the cover photo in the header"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:66
+#: ../lily/inc/widget/thememove_facebook_widget.php:116
+msgid "Show Friend's Faces"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:68
+#: ../lily/inc/widget/thememove_facebook_widget.php:118
+msgid "Show profile photos when friends like this"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:74
+#: ../lily/inc/widget/thememove_facebook_widget.php:121
+msgid "Show Page Posts"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-facebook-page-like.php:76
+#: ../lily/inc/widget/thememove_facebook_widget.php:123
+msgid "Show posts from the Page's timeline"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:24
+msgid "Google Maps"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:30
+msgid "Address or Coordinate"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:34
+msgid ""
+"Enter address or coordinate. To learn how to get coordinates, visit <a href="
+"\"https://support.google.com/maps/answer/18539?hl=en\" target=\"_blank"
+"\">here</a>"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:38
+msgid "Marker icon"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:40
+msgid "Choose a image for marker address"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:44
+msgid "Marker Information"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:46
+msgid "Content for info window"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:53
+msgid "Enter map height (in pixels or percentage)"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:60
+msgid "Enter map width (in pixels or percentage)"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:64
+msgid "Zoom level"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:67
+msgid "Map zoom level"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:71
+msgid "Enable Map zoom"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:79
+msgid "Map type"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:82
+msgid "Choose a map type"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:92
+msgid "Map style"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:95
+msgid ""
+"Choose a map style. This approach changes the style of the Roadmap types "
+"(base imagery in terrain and satellite views is not affected, but roads, "
+"labels, etc. respect styling rules"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:113
+msgid "Map style snippet"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:115
+msgid ""
+"To get the style snippet, visit <a href=\"https://snazzymaps.com\" target="
+"\"_blank\">Snazzymaps</a> or <a href=\"http://www.mapstylr.com/\" target="
+"\"_blank\">Mapstylr</a>."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-gmaps.php:125
+msgid ""
+"If you want to use multiple Google Maps in one page, please add a class name "
+"for them."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:33
+#: ../lily/inc/widget/thememove_instagram_widget.php:325
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:37
+#: ../lily/inc/widget/thememove_instagram_widget.php:329
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:45
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:57
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:61
+#: ../lily/inc/widget/thememove_instagram_widget.php:337
+#: ../lily/inc/widget/thememove_instagram_widget.php:349
+#: ../lily/inc/widget/thememove_instagram_widget.php:353
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:88
+#: ../lily/inc/widget/thememove_instagram_widget.php:380
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:188
+#: ../lily/inc/widget/thememove_instagram_widget.php:39
+msgid "Displays latest Instagram photos"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:195
+msgid "Instagram Username"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:199
+msgid "Enter Instagram username (not include @). Example: <b>thememove</b>"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:204
+#: ../lily/inc/widget/thememove_instagram_widget.php:218
+msgid "Number of items"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:212
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:294
+#: ../lily/inc/widget/thememove_instagram_widget.php:223
+msgid "Item Width"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:213
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:295
+#: ../lily/inc/widget/thememove_instagram_widget.php:227
+msgid "Enter item width in a row (has 12 columns)"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:217
+msgid "Default (2 columns - 1/6 - 6 items in a row)"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:229
+#: ../lily/inc/widget/thememove_instagram_widget.php:229
+msgid "Item spacing"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:238
+#: ../lily/inc/widget/thememove_instagram_widget.php:235
+msgid "Show likes and comments"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:246
+#: ../lily/inc/widget/thememove_instagram_widget.php:239
+msgid "Show follow text"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:252
+#: ../lily/inc/widget/thememove_instagram_widget.php:242
+msgid "Text"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:254
+#: ../lily/inc/widget/thememove_instagram_widget.php:71
+#: ../lily/inc/widget/thememove_instagram_widget.php:191
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:270
+#: ../lily/inc/widget/thememove_instagram_widget.php:252
+msgid "Show square media"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:281
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:343
+msgid "Responsive Options"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:283
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:345
+#: ../lily/inc/widget/thememove_instagram_widget.php:254
+msgid "Responsiveness"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-instagram.php:285
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:347
+msgid "Adjust Number of items in a row for different screen sizes."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:173
+msgid "Post Grid"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:174
+msgid "Show all posts in grid."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:181
+msgid "Post layout"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:182
+msgid "Select a template to display post"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:193
+msgid "Simple Post Layout"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:199
+msgid "Total Posts"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:202
+msgid ""
+"Set max limit for items in grid or enter -1 to display all (limited to 1000)"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:207
+msgid "Posts per page"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:210
+msgid "Number of items to show per page"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:214
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:229
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:240
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:251
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:268
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:276
+msgid "Data Settings"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:216
+msgid "Order by"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:218
+msgid "Select order type."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:220
+msgid "Date"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:221
+msgid "Post ID"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:222
+msgid "Author"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:223
+#: ../lily/inc/widget/thememove_aboutme_widget.php:172
+#: ../lily/inc/widget/thememove_facebook_widget.php:78
+#: ../lily/inc/widget/thememove_instagram_widget.php:208
+#: ../lily/inc/widget/thememove_recent_posts_widget.php:132
+#: ../lily/inc/widget/thememove_twitter_widget.php:84
+msgid "Title"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:224
+msgid "Last modified date"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:225
+msgid "Random order"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:231
+msgid "Sorting"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:233
+msgid "Select sorting order."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:235
+msgid "Descending"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:236
+msgid "Ascending"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:242
+msgid "Filter by"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:244
+msgid "Select filter source."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:246
+msgid "Categories"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:247
+msgid "Tags"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:254
+msgid "Enter categories, tags to filter."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:272
+msgid "Enable Filter by post format"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:278
+msgid "Post Format"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:280
+msgid "Select post format to filter."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:283
+msgid "Standard"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:284
+msgid "Gallery"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:285
+msgid "Video"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:286
+#: ../twentyfourteen/inc/widgets.php:62
+#: ../twentyfourteen/taxonomy-post_format.php:39
+msgid "Audio"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:298
+msgid "Default (6 columns - 1/2 - 2 items in a row)"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:314
+msgid "Number of columns"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:322
+msgid "Number of posts in a row"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:325
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:395
+msgid "Default (2 posts)"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:362
+msgid "Enable featured posts"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-post-grid.php:392
+msgid ""
+"If you are using 'Masonry' Post Layout, this option will does not work and "
+"all featured posts will show in only one column."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-recentposts.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-recentposts.php:59
+#: ../lily/inc/widget/thememove_recent_posts_widget.php:149
+msgid "Enter numbers of articles"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-recentposts.php:64
+#: ../lily/inc/widget/thememove_recent_posts_widget.php:154
+msgid "Image size"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-recentposts.php:66
+#: ../lily/inc/widget/thememove_recent_posts_widget.php:158
+msgid ""
+"Enter image size (Example: \"small\", \"thumbnail\", \"medium\", \"large\", "
+"\"full\" ). Alternatively enter size in pixels (Example: 200x100 (Width x "
+"Height))."
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:15
+msgid "Testimonials"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:22
+msgid "Enable Carousel"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:31
+msgid "Show Bullets"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:41
+msgid "Enable Autoplay"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:51
+msgid "Number"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:54
+msgid "Number of Testimonials"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:71
+msgid "Order"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:77
+msgid "How to order the items"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:81
+msgid "Show Author Info"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:87
+msgid "Choose yes to show author name and byline"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:91
+msgid "Show URL"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:97
+msgid "Choose yes to show author url"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:102
+msgid "Show Author Image"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:112
+msgid "Avatar Size"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-testimonials.php:115
+msgid "Size of Avatar"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:113
+#: ../lily/inc/widget/thememove_twitter_widget.php:256
+msgid "Reply"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:113
+#: ../lily/inc/widget/thememove_twitter_widget.php:256
+msgid "reply"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:114
+#: ../lily/inc/widget/thememove_twitter_widget.php:257
+msgid "Retweet"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:114
+#: ../lily/inc/widget/thememove_twitter_widget.php:257
+msgid "retweet"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:115
+#: ../lily/inc/widget/thememove_twitter_widget.php:258
+msgid "Favorite"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:115
+#: ../lily/inc/widget/thememove_twitter_widget.php:258
+msgid "favorite"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:127
+msgid "Latest tweets widget"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:133
+msgid "Twitter Username"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:136
+msgid ""
+"\n"
+"<p>You need to authenticate yourself to Twitter with creating an app for get "
+"access information to retrieve your tweets and display them on your page.</"
+"p><ol>\n"
+"    <li>Go to <a href=\"http://goo.gl/tyCR5W\" target=\"_blank\">https://"
+"apps.twitter.com/app/new</a> and log in, if necessary</li>\n"
+"    <li>Enter your Application Name, Description and your website address. "
+"You can leave the callback URL empty.</li>\n"
+"    <li>Submit the form by clicking the Create your Twitter Application</"
+"li>\n"
+"    <li>Go to the \"Keys and Access Token\" tab and copy the consumer key "
+"(API key) and consumer secret</li>\n"
+"    <li>Paste them in the following input boxes</li>\n"
+"    <li>Click on the \"Create my access token\" in bottom of page for "
+"creating access token and copy them</li>\n"
+"    <li>Paste them in the following input boxes</li>\n"
+"  </ol>\n"
+"  "
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:150
+msgid "Style"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:161
+#: ../lily/inc/widget/thememove_twitter_widget.php:117
+msgid "Consumer Key (API Key)"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:167
+#: ../lily/inc/widget/thememove_twitter_widget.php:122
+msgid "Consumer Secret (API Secret)"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:173
+#: ../lily/inc/widget/thememove_twitter_widget.php:127
+msgid "Access Token"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:179
+#: ../lily/inc/widget/thememove_twitter_widget.php:132
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:186
+#: ../lily/inc/widget/thememove_twitter_widget.php:140
+msgid "Show Reply, Retweet and Favorite buttons"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:188
+#: ../lily/inc/widget/thememove_twitter_widget.php:138
+msgid "Show Twitter Buttons?"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:194
+#: ../lily/inc/widget/thememove_twitter_widget.php:142
+msgid "Number of Tweets"
+msgstr ""
+
+#: ../lily/inc/vc-shortcode/thememove-twitter.php:202
+msgid "Open Tweet Links in New Window"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_aboutme_widget.php:46
+msgid "ThemeMove - About me"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_aboutme_widget.php:47
+msgid "Display your basic description and social networks"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_aboutme_widget.php:177
+msgid "Image"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_aboutme_widget.php:180
+msgid "Select Image"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_aboutme_widget.php:184
+msgid "Image Shape"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_aboutme_widget.php:186
+#: ../lily/inc/widget/thememove_aboutme_widget.php:197
+msgid "Circle"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_aboutme_widget.php:187
+#: ../lily/inc/widget/thememove_aboutme_widget.php:198
+msgid "Square"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_aboutme_widget.php:199
+msgid "Outline Circle"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_aboutme_widget.php:200
+msgid "Outline Square"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_facebook_widget.php:19
+msgid "ThemeMove - Facebook Page Like"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_instagram_widget.php:39
+msgid "ThemeMove - Instagram"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_instagram_widget.php:213
+#: ../lily/inc/widget/thememove_twitter_widget.php:89
+msgid "User Name"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_instagram_widget.php:248
+msgid "Open links in new page:"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_recent_posts_widget.php:21
+msgid "ThemeMove - Recent Posts"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_recent_posts_widget.php:21
+msgid "Your site's most recent Posts."
+msgstr ""
+
+#: ../lily/inc/widget/thememove_recent_posts_widget.php:138
+msgid "Show post title"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_recent_posts_widget.php:142
+msgid "Show excerpt"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_recent_posts_widget.php:146
+msgid "Show meta"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_twitter_widget.php:19
+msgid "ThemeMove - Twitter"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_twitter_widget.php:19
+msgid "Latest tweets widget."
+msgstr ""
+
+#: ../lily/inc/widget/thememove_twitter_widget.php:94
+msgid "Select Style"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_twitter_widget.php:97
+msgid "Avatar Image Float Left"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_twitter_widget.php:98
+msgid "Align Center"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_twitter_widget.php:99
+msgid "Only text (without avatar image)"
+msgstr ""
+
+#: ../lily/inc/widget/thememove_twitter_widget.php:102
+msgid ""
+"\n"
+"      <p class=\"help\">\n"
+"        You need to authenticate yourself to Twitter with creating an app "
+"for get access information to retrieve your tweets and display them on your "
+"page\n"
+"      </p>\n"
+"      <ol>\n"
+"        <li>Go to <a href=\"http://goo.gl/tyCR5W\" target=\"_blank\">https://"
+"apps.twitter.com/app/new</a> and log in, if necessary</li>\n"
+"        <li>Enter your Application Name, Description and your website "
+"address. You can leave the callback URL empty.</li>\n"
+"        <li>Submit the form by clicking the Create your Twitter Application</"
+"li>\n"
+"        <li>Go to the \"Keys and Access Token\" tab and copy the consumer "
+"key (API key) and consumer secret</li>\n"
+"        <li>Paste them in the following input boxes</li>\n"
+"        <li>Click on the \"Create my access token\" in bottom of page for "
+"creating access token and copy them</li>\n"
+"        <li>Paste them in the following input boxes</li>\n"
+"      </ol>\n"
+"      "
+msgstr ""
+
+#: ../lily/inc/widget/thememove_twitter_widget.php:148
+msgid "Open Tweet Links in New Page"
+msgstr ""
+
+#: ../lily/template-parts/content-grid.php:92
+#: ../lily/template-parts/content-list.php:56
+#: ../lily/template-parts/content-masonry.php:69
+#: ../lily/template-parts/content.php:132
+msgid "Continue reading"
+msgstr ""
+
+#: ../lily/template-parts/content-none.php:14
+#: ../twentyfifteen/content-none.php:15 ../twentyfourteen/content-none.php:12
+#: ../twentythirteen/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: ../lily/template-parts/content-none.php:21
+#: ../twentyfifteen/content-none.php:22 ../twentyfourteen/content-none.php:18
+#: ../twentythirteen/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../lily/template-parts/content-none.php:25
+#: ../twentyfifteen/content-none.php:26 ../twentyfourteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../lily/template-parts/content-none.php:30
+#: ../twentyfifteen/content-none.php:31 ../twentyfourteen/content-none.php:27
+#: ../twentythirteen/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../twentyfifteen/404.php:21 ../twentyfourteen/404.php:21
+#: ../twentythirteen/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:49 ../twentyfifteen/index.php:46
+#: ../twentyfifteen/search.php:38
+msgid "Previous page"
+msgstr ""
+
+#: ../twentyfifteen/archive.php:50 ../twentyfifteen/index.php:47
+#: ../twentyfifteen/search.php:39
+msgid "Next page"
+msgstr ""
+
+#: ../twentyfifteen/author-bio.php:12
+msgid "Published by"
+msgstr ""
+
+#: ../twentyfifteen/author-bio.php:34 ../twentythirteen/functions.php:343
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../twentyfifteen/content-link.php:31 ../twentyfifteen/content.php:33
+#: ../twentyfifteen/inc/template-tags.php:238
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../twentyfifteen/content-link.php:36 ../twentyfifteen/content-page.php:25
+#: ../twentyfifteen/content.php:38 ../twentyfifteen/image.php:59
+#: ../twentyfourteen/content-aside.php:53
+#: ../twentyfourteen/content-audio.php:53
+#: ../twentyfourteen/content-gallery.php:53
+#: ../twentyfourteen/content-image.php:53
+#: ../twentyfourteen/content-link.php:53 ../twentyfourteen/content-page.php:22
+#: ../twentyfourteen/content-quote.php:53
+#: ../twentyfourteen/content-video.php:53 ../twentyfourteen/content.php:61
+#: ../twentyfourteen/image.php:54 ../twentythirteen/content-aside.php:20
+#: ../twentythirteen/content-audio.php:31
+#: ../twentythirteen/content-chat.php:30
+#: ../twentythirteen/content-gallery.php:31
+#: ../twentythirteen/content-image.php:30
+#: ../twentythirteen/content-link.php:31
+#: ../twentythirteen/content-quote.php:20
+#: ../twentythirteen/content-status.php:20
+#: ../twentythirteen/content-video.php:30 ../twentythirteen/content.php:48
+#: ../twentythirteen/image.php:70 ../twentythirteen/page.php:35
+msgid "Pages:"
+msgstr ""
+
+#: ../twentyfifteen/content-link.php:56 ../twentyfifteen/content-page.php:35
+#: ../twentyfifteen/content-search.php:28
+#: ../twentyfifteen/content-search.php:33 ../twentyfifteen/content.php:57
+#: ../twentyfifteen/image.php:71 ../twentyfourteen/content-aside.php:40
+#: ../twentyfourteen/content-audio.php:40
+#: ../twentyfourteen/content-gallery.php:40
+#: ../twentyfourteen/content-image.php:40
+#: ../twentyfourteen/content-link.php:40 ../twentyfourteen/content-page.php:28
+#: ../twentyfourteen/content-quote.php:40
+#: ../twentyfourteen/content-video.php:40 ../twentyfourteen/content.php:42
+#: ../twentyfourteen/image.php:34
+#: ../twentyfourteen/page-templates/contributors.php:35
+#: ../twentythirteen/content-aside.php:27
+#: ../twentythirteen/content-aside.php:35
+#: ../twentythirteen/content-audio.php:38
+#: ../twentythirteen/content-chat.php:36
+#: ../twentythirteen/content-gallery.php:46
+#: ../twentythirteen/content-image.php:42
+#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-quote.php:32
+#: ../twentythirteen/content-status.php:26
+#: ../twentythirteen/content-video.php:42 ../twentythirteen/content.php:31
+#: ../twentythirteen/image.php:44 ../twentythirteen/page.php:39
+msgid "Edit"
+msgstr ""
+
+#: ../twentyfifteen/footer.php:25 ../twentyfourteen/footer.php:21
+#: ../twentythirteen/footer.php:19
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: ../twentyfifteen/footer.php:25 ../twentyfourteen/footer.php:21
+#: ../twentythirteen/footer.php:19
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:85 ../twentyfourteen/header.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:86
+msgid "Social Links Menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:133
+msgid "Widget Area"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:135
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: ../twentyfifteen/functions.php:255
+msgid "expand child menu"
+msgstr ""
+
+#: ../twentyfifteen/functions.php:256
+msgid "collapse child menu"
+msgstr ""
+
+#: ../twentyfifteen/header.php:43
+msgid "Menu and widgets"
+msgstr ""
+
+#: ../twentyfifteen/image.php:24 ../twentyfourteen/image.php:65
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfifteen/image.php:24 ../twentyfourteen/image.php:66
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfifteen/inc/back-compat.php:37
+#: ../twentyfifteen/inc/back-compat.php:47
+#: ../twentyfifteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fifteen requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:31
+msgid "Base Color Scheme"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:46
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:47
+#: ../twentyfifteen/inc/customizer.php:63
+#: ../twentyfifteen/inc/customizer.php:68
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:62
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:103
+msgid "Dark"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:114
+msgid "Yellow"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:125
+msgid "Pink"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:136
+msgid "Purple"
+msgstr ""
+
+#: ../twentyfifteen/inc/customizer.php:147
+msgid "Blue"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:49
+msgid "Featured"
+msgstr ""
+
+#: ../twentyfifteen/inc/template-tags.php:123
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: ../twentyfifteen/search.php:18 ../twentyfourteen/search.php:18
+#: ../twentythirteen/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../twentyfifteen/single.php:33 ../twentyfourteen/functions.php:259
+msgid "Next"
+msgstr ""
+
+#: ../twentyfifteen/single.php:34
+msgid "Next post:"
+msgstr ""
+
+#: ../twentyfifteen/single.php:36 ../twentyfourteen/functions.php:258
+msgid "Previous"
+msgstr ""
+
+#: ../twentyfifteen/single.php:37
+msgid "Previous post:"
+msgstr ""
+
+#: ../twentyfourteen/404.php:17 ../twentythirteen/404.php:16
+msgid "Not Found"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:31 ../twentythirteen/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:34 ../twentythirteen/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:37 ../twentythirteen/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:40
+#: ../twentyfourteen/taxonomy-post_format.php:51
+#: ../twentythirteen/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../twentyfourteen/author.php:31 ../twentythirteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentyfourteen/category.php:20 ../twentythirteen/category.php:19
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:35 ../twentyfourteen/comments.php:53
+#: ../twentythirteen/comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:36 ../twentyfourteen/comments.php:54
+#: ../twentythirteen/comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+#: ../twentythirteen/content-gallery.php:43
+#: ../twentythirteen/content-image.php:39
+#: ../twentythirteen/content-quote.php:29
+#: ../twentythirteen/content-video.php:39 ../twentythirteen/content.php:56
+msgid "Leave a comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "1 Comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "% Comments"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:48
+#: ../twentyfourteen/content-audio.php:48
+#: ../twentyfourteen/content-gallery.php:48
+#: ../twentyfourteen/content-image.php:48
+#: ../twentyfourteen/content-link.php:48
+#: ../twentyfourteen/content-quote.php:48
+#: ../twentyfourteen/content-video.php:48 ../twentyfourteen/content.php:56
+#: ../twentyfourteen/inc/template-tags.php:222
+#: ../twentythirteen/content-aside.php:16
+#: ../twentythirteen/content-audio.php:27
+#: ../twentythirteen/content-chat.php:26
+#: ../twentythirteen/content-gallery.php:27
+#: ../twentythirteen/content-image.php:26
+#: ../twentythirteen/content-link.php:27
+#: ../twentythirteen/content-quote.php:16
+#: ../twentythirteen/content-status.php:16
+#: ../twentythirteen/content-video.php:26 ../twentythirteen/content.php:44
+#: ../twentythirteen/functions.php:478
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:83
+msgid "Top primary menu"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:171
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:173
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:180
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:182
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:189
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:191 ../twentythirteen/functions.php:233
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:495 ../twentythirteen/functions.php:218
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../twentyfourteen/inc/back-compat.php:37
+#: ../twentyfourteen/inc/back-compat.php:47
+#: ../twentyfourteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fourteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:24
+msgid "Site Title Color"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:27
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:31
+#: ../twentyfourteen/inc/customizer.php:32
+msgid "May only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:34
+#: ../twentyfourteen/inc/customizer.php:35
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:40
+#: ../twentyfourteen/inc/featured-content.php:403
+msgid "Featured Content"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:41
+#: ../twentyfourteen/inc/featured-content.php:404
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:60
+msgid "Grid"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:105
+msgid "Twenty Fourteen"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:108
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change "
+"the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If "
+"no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed "
+"instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:109
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Twenty "
+"Fourteen uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:110
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Twenty Fourteen documentation</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:426
+msgid "Tag Name"
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:431
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:50
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:51
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:89
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:36
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts."
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:54
+#: ../twentyfourteen/taxonomy-post_format.php:33
+msgid "Images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:55
+msgid "More images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:58
+#: ../twentyfourteen/taxonomy-post_format.php:36
+msgid "Videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:59
+msgid "More videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:63
+msgid "More audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:66
+#: ../twentyfourteen/taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:67
+msgid "More quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:70
+#: ../twentyfourteen/taxonomy-post_format.php:45
+msgid "Links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:71
+msgid "More links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:74
+#: ../twentyfourteen/taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:75
+msgid "More galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:79
+#: ../twentyfourteen/taxonomy-post_format.php:30
+msgid "Asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:80
+msgid "More asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:127 ../twentyfourteen/inc/widgets.php:172
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:206
+#, php-format
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:255
+msgid "Title:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:258
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:261
+msgid "Post format to show:"
+msgstr ""
+
+#: ../twentyfourteen/tag.php:22 ../twentythirteen/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../twentythirteen/404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:26
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:30
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:43
+#: ../twentythirteen/content-image.php:39
+#: ../twentythirteen/content-quote.php:29
+#: ../twentythirteen/content-video.php:39 ../twentythirteen/content.php:56
+msgid "One comment so far"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:43
+#: ../twentythirteen/content-image.php:39
+#: ../twentythirteen/content-quote.php:29
+#: ../twentythirteen/content-video.php:39 ../twentythirteen/content.php:56
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../twentythirteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../twentythirteen/functions.php:97
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../twentythirteen/functions.php:231
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:241
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:243
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: ../twentythirteen/functions.php:270
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../twentythirteen/functions.php:274
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/functions.php:328 ../twentythirteen/functions.php:334
+msgid ", "
+msgstr ""
+
+#: ../twentythirteen/functions.php:369
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../twentythirteen/image.php:22
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../twentythirteen/image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../twentythirteen/image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentythirteen/image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/inc/back-compat.php:37
+#: ../twentythirteen/inc/back-compat.php:47
+#: ../twentythirteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentythirteen/taxonomy-post_format.php:23
+#, php-format
+msgid "%s Archives"
+msgstr ""

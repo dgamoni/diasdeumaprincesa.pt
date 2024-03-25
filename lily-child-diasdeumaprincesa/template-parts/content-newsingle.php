@@ -190,10 +190,10 @@ $infinity_post_grid_align = Kirki::get_option( 'infinity', 'post_grid_align' );
                onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=no,scrollbars=no,height=455,width=600'); return false;">
               <!-- <i class="fa fa-google-plus"></i> -->Google
             </a>
-            <span class="prince-slash"> / </span>
-            <a href="mailto:<?php echo get_option( 'admin_email' ); ?>">
-              <!-- <i class="fa fa-envelope-o"></i> -->Email
-            </a>
+            <!-- <span class="prince-slash"> / </span> -->
+            <!-- <a href="mailto:<?php echo get_option( 'admin_email' ); ?>"> -->
+              <!-- Email -->
+            <!-- </a> -->
           </div>
 
 
