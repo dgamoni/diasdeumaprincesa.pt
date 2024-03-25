@@ -29,25 +29,23 @@ get_header(); ?>
   <div class="content-wrapper">
     <div class="container">
       <div class="row">
-        <?php if ( 'sidebar-content' == $layout ) { ?>
-          <?php get_sidebar(); ?>
-        <?php } ?>
-        <?php if ( 'sidebar-content' == $layout || 'content-sidebar' == $layout ) { ?>
+          
           <?php $class = 'col-md-9'; ?>
-        <?php } else { ?>
-          <?php $class = 'col-md-12'; ?>
-        <?php } ?>
+          <?php //$class = 'col-md-12'; ?>
+
         <div class="<?php echo esc_attr( $class ); ?>">
           <main class="content site-main">
             <?php while ( have_posts() ) : the_post(); ?>
-              <?php get_template_part( 'template-parts/content', 'page' ); ?>
+              <?php get_template_part( 'template-parts/content', 'newpage' ); ?>
             <?php endwhile; // end of the loop. ?>
           </main>
         </div>
-        <?php if ( 'content-sidebar' == $layout ) { ?>
+
+
           <?php get_sidebar(); ?>
-        <?php } ?>
+
       </div>
     </div>
   </div><!--.content-wrapper-->
+
 <?php get_footer(); ?>

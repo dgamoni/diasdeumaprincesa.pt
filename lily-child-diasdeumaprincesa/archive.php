@@ -88,7 +88,7 @@ if ( $infinity_post_featured_enable && class_exists( 'NS_Featured_Posts' ) ) {
                   
                   </div>
 
-              <?php infinity_paging_nav(); ?>
+              <?php //infinity_paging_nav(); ?>
 
             <?php else : ?>
 
@@ -107,4 +107,14 @@ if ( $infinity_post_featured_enable && class_exists( 'NS_Featured_Posts' ) ) {
     </div>
   </div><!--.content-wrapper-->
 
+  <div class="content-wrapper pag-wrap">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9 ">
+          <?php infinity_paging_nav(); ?>
+        </div>
+      </div> 
+    </div> 
+  </div>
+  
 <?php get_footer(); ?>

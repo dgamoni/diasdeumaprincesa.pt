@@ -5,7 +5,7 @@
  * @package ThemeMove
  */
 
-$infinity_post_general_display_full_post   = false;
+$infinity_post_general_display_full_post   = true;
 $infinity_post_general_excerpt_length      = '450';
 $infinity_post_general_post_title_position = true;
 $infinity_hide_category                    = Kirki::get_option( 'infinity', 'post_general_hide_category' );
@@ -31,23 +31,23 @@ $infinity_post_grid_align = Kirki::get_option( 'infinity', 'post_grid_align' );
         </div><!--post-categories-->
       <?php } ?>
       
-		
+    
 
-				
+        
             
   <?php if ( ! $infinity_hide_date ) { ?>
         <div class="post-date">
           <?php infinity_posted_on(); ?>
         </div><!--post-date-->
       <?php } ?>
-		
-		
-		
+    
+    
+    
       
      <?php the_title( sprintf( '<h2 class="entry-title"><a href="%s" rel="bookmark">', esc_url( get_permalink() ) ), '</a></h2>' ); ?>
 
-		
-		
+    
+    
 
       
       
@@ -59,7 +59,7 @@ $infinity_post_grid_align = Kirki::get_option( 'infinity', 'post_grid_align' );
       
 
 
-		
+    
     
     </div>
     <!-- .entry-header -->
@@ -169,7 +169,7 @@ $infinity_post_grid_align = Kirki::get_option( 'infinity', 'post_grid_align' );
           </div><!--post-date-->
         
 
-          <div class="post-share-buttons col-xs-6">
+          <div class="post-share-buttons col-xs-9">
             <a href="https://www.facebook.com/sharer/sharer.php?u=<?php the_permalink(); ?>"
                onclick="window.open(this.href, '', 'menubar=no,toolbar=no,resizable=no,scrollbars=no,height=455,width=600'); return false;">
               <!-- <i class="fa fa-facebook"></i> -->Facebook
@@ -197,9 +197,9 @@ $infinity_post_grid_align = Kirki::get_option( 'infinity', 'post_grid_align' );
           </div>
 
 
-          <div class="col-xs-3 princ-commen-count">
+<!--           <div class="col-xs-3 princ-commen-count">
             <p><?php comments_number( 'No Comentários', 'One Comentário', '% Comentários' ); ?></p>
-          </div>
+          </div> -->
 
       </div>
     </div>

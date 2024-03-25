@@ -2,10 +2,33 @@
 // Exit if accessed directly
 if ( !defined( 'ABSPATH' ) ) exit;
 
-// BEGIN ENQUEUE PARENT ACTION
-// AUTO GENERATED - Do not modify or remove comment markers above or below:
-
-// END ENQUEUE PARENT ACTION
+define('CORE_PATH', get_stylesheet_directory() . '/core');
+define('CORE_URL', get_stylesheet_directory_uri()  . '/core');
+ 
+$dirs = array(
+    //CORE_PATH . '/post_types/',
+    CORE_PATH . '/functions/',
+);
+foreach ($dirs as $dir) {
+    $other_inits = array();
+    if (is_dir($dir)) {
+        if ($dh = opendir($dir)) {
+            while (false !== ($file = readdir($dh))) {
+                if ($file != '.' && $file != '..' && stristr($file, '.php') !== false) {
+                    list($nam, $ext) = explode('.', $file);
+                    if ($ext == 'php')
+                        $other_inits[] = $file;
+                }
+            }
+            closedir($dh);
+        }
+    }
+    asort($other_inits);
+    foreach ($other_inits as $other_init) {
+        if (file_exists($dir . $other_init))
+            include_once $dir . $other_init;
+    }
+}
 
 
 function infinity_print_the_excerpt_princ( $length ) {
@@ -48,3 +71,23 @@ if ( ! function_exists( 'infinity_posted_on' ) ) :
 
   }
 endif;
+
+
+
+
+
+add_action('wp_footer', 'add_custom_css');
+function add_custom_css() { ?>
+	<script>
+		jQuery(document).ready(function($) {
+			
+
+			$("#wpp-2 ul > li").addClass(function(i){return " customitem item" + (i + 1);});
+			
+		});
+	</script>
+	<style>
+
+	</style>
+	<?php
+}

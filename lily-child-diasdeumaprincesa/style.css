@@ -96,6 +96,7 @@ article {
 
 .post .entry-content p.more-link {
 	text-align: center;
+	position: relative;
 }
 
 .post .entry-content .more-link a, .post .entry-summary .more-link a {
@@ -111,10 +112,6 @@ article {
     color: #f9cf55 !important;
 }
 .princesa .recent-posts h3 > a:hover,
-.princesa  .tm-aboutme__social__item--outline-circle a,
-.princesa  .tm-aboutme__social__item--outline-square a,
-.princesa  .tm-aboutme__social__item--circle a:hover,
-.princesa  .tm-aboutme__social__item--square a:hover,
 .princesa  .post .entry-title a:hover,
 .princesa  .pagination.posts-pagination .next:hover:after,
 .princesa  .pagination.posts-pagination .prev:hover:after,
@@ -168,7 +165,8 @@ article {
     border-top: none;
 }
 
-.princesa .post-grid-item .entry-footer {
+.princesa .post-grid-item .entry-footer,
+.princesa .entry-footer {
 	height: 100%;
 }
 .post-grid-layout .post-grid-item .post-date:before,
@@ -193,6 +191,439 @@ article {
 	margin-bottom: 0;
 	    font-size: 16px;
 }
+
+.post .princ-meta .post-share-buttons {
+    text-align: center;
+        margin-top: 10px;
+    padding-bottom: 10px;
+}
+.home  .post .post-date {
+    margin-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+.home .post .post-meta {
+	padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.home .princ-commen-count {
+    margin-top: 10px;
+    /* padding-bottom: 10px; */
+    text-align: right;
+}
+.post-share-buttons a {
+	    font-size: 15px;
+    color: #7d7d7d;
+}
+.home .posted-on {
+    padding-left: 0px;
+}
+.home .post .post-meta {
+    margin-left: 35px;
+    margin-right: 35px;
+    border-bottom: 1px solid #7d7d7d;
+}
+
+.post .entry-content:before, .post .entry-summary:before {
+	display: none;
+}
+.home .more-link:before {
+	content: '...';
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -62px;
+    color: #cccbcb;
+    font-size: 51px;
+    font-family: 'Mukta Mahee', sans-serif;
+    margin-left: -15px;
+}
+
+.pagination.loop-pagination {
+    margin-bottom: 0px;
+    width: 100%;
+/*    border-top: 1px solid #acacaf;
+    border-bottom: 1px solid #acacaf;*/
+    padding: 5px;
+}
+.pag-wrap.content-wrapper {
+	    border-top: 1px solid #acacaf;
+    border-bottom: 1px solid #acacaf;
+    padding: 0;
+     margin-bottom: 60px;
+}
+.pagination.posts-pagination .prev, .pagination.loop-pagination .prev,
+ .pagination.posts-pagination .next, .pagination.loop-pagination .next {
+    line-height: 21px;
+}
+
+.tm-aboutme__social__item i {
+    color: black;
+}
+
+.princesa  .tm-aboutme__social__item--outline-circle a,
+.princesa  .tm-aboutme__social__item--outline-square a {
+	    border-color: black;
+}
+.princesa .tm-aboutme__social__item--outline-circle a:hover {
+	background-color: #f9cf55;
+}
+.widget-title, .widgettitle {
+    font-size: 17px;
+    color: #f9cf55;
+    border-bottom: 2px solid #bfbfc1;
+    padding-bottom:10px;
+}
+.widget-title:before, .widgettitle:before {
+  display: none;
+}
+.widget-title:after, .widgettitle:after {
+    display: none;
+}
+.sidebar {
+/*	padding: 20px;
+	background-color: white;*/
+
+}
+.princesa .sidebar .widget {
+    /*margin-bottom: 0px !important;*/
+    padding: 20px;
+    background-color: white;
+}
+.princesa .widget.widget_media_image {
+	padding: 0px;
+}
+.textwidget .col-md-6 p {
+	margin-bottom: 0;
+}
+.textwidget .col-md-6 {
+    float: left !important;
+    padding-left: 0;
+    padding-right: 3px;
+    padding-bottom: 3px;
+}
+.textwidget .col-md-12 {
+    padding: 0 !important;
+}
+.textwidget .col-md-12 {
+    overflow: hidden;
+}
+#text-4 {
+    text-align: center;
+    background-color: transparent;
+}
+.princesa button,
+.princesa  a.button,
+.princesa  input[type='button'],
+.princesa  input[type='reset'],
+.princesa  input[type='submit'] {
+    background-color: #f9cf55;
+    border-color: #f9cf55;
+}
+.mc4wp-form input[type="text"], .mc4wp-form input[type="email"] {
+    background-color: #f3f3f3;
+}
+#text-5 {
+	text-align: center;
+}
+
+.princesa a.wpp-post-title {
+	color: #b2b2b2;
+	font-size: 23px;
+    font-weight: bold;
+    line-height: 1.2;
+}
+.wpp-list li {
+
+}
+.princesa .sidebar #text-6.widget {
+   padding: 0px;
+
+}
+
+.about-title {
+	font-size: 22px;
+    text-align: center;
+    color: #f9cf55;
+        margin-bottom: 10px;
+}
+.about-text {
+    font-size: 17px;
+    text-align: center;
+    line-height: 22px;
+    padding: 0 25px 25px 25px;
+}
+
+.footer > .container > .row > [class*="col-"]:after, .footer > .container > .comments-area .comment-respond .comment-form > [class*="col-"]:after {
+	display: none;
+}
+.footer .widget-title,.footer  .widgettitle {
+    border-bottom: none;
+    margin-bottom: 10px;
+}
+.footer .textwidget {
+	text-align: center;
+}
+.footer .textwidget p {
+	font-size: 17px;
+}
+.footer .fa:before {
+    color: #a7a7a7;
+        font-size: 23px;
+    line-height: 37px;
+}
+.princesa .footer .tm-aboutme__social__item--outline-circle a {
+    border-color: #a7a7a7;
+    height: 40px;
+    width: 40px;
+}
+.footer {
+    padding: 70px 0 0 0;
+    margin-bottom: 70px;
+}
+
+.widget_categories ul {
+    border-top: none;
+    border-bottom: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.widget_categories ul li {
+    padding: 0;
+    border-bottom: none;
+}
+.princesa .widget_categories ul li > a {
+    font-size: 17px;
+    color: #a7a7a7;
+}
+.princesa .mobile-menu > ul li.menu-item .sub-menu li.badge:hover:after,
+.princesa  .nav .sub-menu li.badge:hover:after,
+.princesa  .tm-twitter .time > i,
+.princesa  .widget_categories li:hover,
+.princesa  .widget_categories ul li:hover > a,
+.princesa  .widget_tag_cloud .tagcloud a:hover,
+.princesa  blockquote:before,
+.princesa  .post .post-tags a:hover,
+.princesa  .post .post-comments .comments-link:before,
+.princesa  .post .post-comments a:hover,
+.princesa  .pagination.posts-pagination .page-numbers:hover,
+.princesa  .pagination.posts-pagination .page-numbers.current,
+.princesa  .pagination.loop-pagination .page-numbers:hover,
+.princesa  .pagination.loop-pagination .page-numbers.current,
+.princesa  .post.format-quote .source-name span,
+.princesa  .post.format-quote .post-quote:after,
+.princesa  .post-date:before,
+.princesa  .post-img .fa,
+.princesa  .big-title.color-background h1 span,
+.princesa  .search .page-title span {
+    color: #f9cf55;
+}
+.footer .widget_categories ul li > a:before {
+    font-size: 12px;
+    content: '/';
+    color: #ccc;
+        margin-right: 5px;
+    margin-left: 5px;
+}
+.footer .widget_categories ul li:first-child > a:before {
+	display: none;
+}
+
+#popularpost li {
+	margin-bottom: 10px;
+}
+.princesa #popularpost a.wpp-post-title {
+    color: black;
+    font-size: 17px;
+}
+
+#popularpost .wpp-thumbnail {
+    margin-right: 10px;
+}
+#wpp-2 ul li {
+
+}
+
+.princesa .customitem  a.wpp-post-title {
+    line-height: 1.0;
+}
+.customitem {
+	position: relative;
+    padding-left: 50px;
+    margin-bottom: 20px;
+}
+.customitem:before {
+    color: black;
+    font-size: 40px;
+    position: absolute;
+    border-right: 1px solid black;
+    line-height: 36px;
+    font-family: 'Amiri', serif;
+    font-weight: bold;
+    padding-right: 6px;
+    left: 0px;
+    top: 5px;
+}
+.item1:before {
+	content: '1';
+}
+.item2:before {
+	content: '2';
+}
+.item3:before {
+	content: '3';
+}
+#main {
+	margin-top: 60px;
+}
+.page .site-main {
+	margin-top: 120px;
+}
+.archive #main {
+	margin-top: 30px;
+}
+.sidebar {
+    margin-top: 120px;
+}
+.archive .sidebar {
+    margin-top: 160px;
+}
+
+.pag-wrap .col-md-9  {
+	min-height: 30px;
+}
+.boreder {
+    border-left: 1px solid #f9cf55;
+    border-right: 1px solid #f9cf55;
+}
+
+.footer > .container > .row > [class*="col-"], .footer > .container > .comments-area .comment-respond .comment-form > [class*="col-"] {
+    margin-bottom: 100px;
+}
+.footer .widget {
+    margin-bottom: 0px !important;
+}
+
+.page .wpb_single_image img {
+	max-width: 240px;
+	padding-top: 12px;
+}
+
+.page .entry-content {
+padding-left: 60px;
+    padding-top: 40px;
+    padding-right: 10px;
+}
+
+.princesa.page .wpb_wrapper h3 {
+    font-size: 32px;
+}
+.princesa.page .wpb_wrapper p {
+    font-size: 17px;
+        padding-right: 35px;
+}
+.princesa.page .vc_column_container>.vc_column-inner {
+    padding-right: 20px;
+
+}
+.pageline {
+    border-bottom: 1px solid #bfbfc1;
+    margin-bottom: 40px;
+}
+
+.princesa a.buttoncomprar {
+    background-color: #f9cf55;
+    border-color: #f9cf55;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 21px;
+}
+.princesa.page .vc_row {
+	margin-bottom: 50px;
+}
+
+
+.princesa.single .post .entry-header {
+    text-align: left;
+}
+.princesa .entry-content a {
+    font-size: 18px;
+}
+
+.princesa.single .post .princ-meta .post-share-buttons {
+    text-align: right;
+    /*padding-right: 50px;*/
+
+}
+.princesa.single .post .post-meta {
+    margin-left: 35px;
+    margin-right: 35px;
+    border-top: 1px solid #7d7d7d;
+}
+.princesa.single .posted-on {
+    padding-left: 0;
+}
+.princesa.single .post .post-img {
+    text-align: center;
+}
+
+
+.princesa.single  img {
+    margin: 0 auto;
+    display: block;
+}
+
+#respond, .comment-list, .comments-title {
+	background-color: white;
+	    padding-left: 35px;
+    padding-right: 35px;
+}
+.comment-respond textarea, .comment-respond input {
+    background-color: #ebebeb;
+}
+.comments-area .comments-title, .comments-area .comment-respond .comment-reply-title {
+   text-transform: initial;
+    font-size: 23px;
+    color: #f9cf55;
+    padding-top: 30px;
+}
+
+.single .related-posts {
+    background-color: white;
+        padding-left: 20px;
+    padding-right: 20px;
+}
+.single .related-posts h3 {
+   text-transform: initial;
+    font-size: 23px;
+    color: #f9cf55;
+    padding-top: 30px;	
+}
+.related-posts .post-simple-layout .post .entry-title {
+    font-size: 23px;
+    border-bottom: 1px solid #bfbfc1;
+    padding-bottom: 20px;
+}
+.single .related-posts .post .post-date {
+    margin-top: 6px;
+    font-weight: bold;
+}
+.single .related-posts .post {
+    margin-bottom: 0;
+}
+.princesa .related-posts .princess_post-categories a {
+    font-size: 15px;
+    margin-top: 8px;
+    display: inline-block;
+}
+
+
 
 @media only screen and (min-width: 992px) {
 	.site-branding {

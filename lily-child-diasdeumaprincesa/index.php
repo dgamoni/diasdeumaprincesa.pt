@@ -42,7 +42,7 @@ get_header();
                           </div>
                       <?php endwhile; ?>
 
-                      <?php infinity_paging_nav(); ?>
+                      <?php //infinity_paging_nav(); ?>
                   </div>
               <?php else : ?>
                 <?php get_template_part( 'template-parts/content', 'none' ); ?>
@@ -59,5 +59,15 @@ get_header();
       </div>
     </div>
   </div><!--.content-wrapper-->
+
+  <div class="content-wrapper pag-wrap">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9 ">
+          <?php infinity_paging_nav(); ?>
+        </div>
+      </div> 
+    </div> 
+  </div>
 
 <?php get_footer(); ?>
